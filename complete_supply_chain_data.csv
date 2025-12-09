@@ -1,0 +1,1001 @@
+Order_ID,Supplier_ID,Product_Category,Product_Subcategory,Quantity_Ordered,Order_Value_USD,Shipping_Mode,Delay_Days,Delivery_Status,Disruption_Type,Days_To_Deliver,Damaged,Emissions_kgCO2,Transport_Cost_USD
+O1000,S23,Food,Fresh Produce,469,36273.99,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1001,S20,Household,Outdoor & Seasonal,365,34780.36,Air,0,On-Time,None,4.0,N,25.95,270.99
+O1002,S10,Food,Frozen Foods,333,7154.54,Rail,0,On-Time,None,2.0,N,2.64,47.96
+O1003,S10,Food,Fresh Produce,142,15320.08,Air,0,On-Time,None,1.0,N,3.21,47.63
+O1004,S4,Electronics,Office & Computing,897,18256.42,Sea,0,On-Time,None,23.0,Y,38.42,685.99
+O1005,S11,Electronics,Home Gadgets,814,40319.64,Air,0,On-Time,None,5.0,N,83.36,625.41
+O1006,S30,Textiles,Footwear,849,14298.61,Road,0,On-Time,None,4.0,N,24.07,168.11
+O1007,S30,Textiles,Men's Clothing,136,10929.9,Road,0,On-Time,None,5.0,N,5.13,82.1
+O1008,S24,Food,Beverages,115,47893.68,Rail,0,On-Time,None,4.0,N,2.14,51.91
+O1009,S13,Food,Frozen Foods,613,938.73,Rail,0,On-Time,None,4.0,N,7.89,134.64
+O1010,S25,Textiles,Home Textiles,808,49892.13,Sea,0,On-Time,None,11.0,N,20.54,260.07
+O1011,S14,Electronics,Consumer Electronics,387,34002.65,Rail,0,On-Time,None,8.0,N,10.75,232.79
+O1012,S3,Electronics,Home Gadgets,914,41509.23,Rail,0,On-Time,None,9.0,N,35.33,346.2
+O1013,S8,Food,Pantry Staples,60,15083.66,Air,0,On-Time,None,1.0,N,1.81,31.01
+O1014,S5,Household,Cleaning Supplies,38,1208.61,Sea,0,On-Time,None,12.0,N,1.52,58.27
+O1015,S9,Food,Pantry Staples,471,37024.54,Road,0,On-Time,None,3.0,N,10.42,98.65
+O1016,S27,Household,Kitchen & Dining,305,41790.16,Air,0,On-Time,None,4.0,N,30.12,241.68
+O1017,S16,Food,Snacks & Confectionery,306,37153.57,Road,0,On-Time,None,3.0,N,7.15,80.16
+O1018,S8,Food,Pantry Staples,735,7571.09,Air,0,On-Time,None,1.0,N,11.88,100.51
+O1019,S18,Household,Kitchen & Dining,788,37794.68,Rail,0,On-Time,None,4.0,N,11.03,130.39
+O1020,S24,Food,Snacks & Confectionery,416,38561.68,Rail,0,On-Time,None,5.0,Y,9.57,127.81
+O1021,S9,Food,Pantry Staples,778,33097.76,Sea,3,Late,Shortage,12.0,N,16.37,215.64
+O1022,S21,Health,Skincare,823,38422.74,Air,0,On-Time,None,3.0,N,47.82,355.79
+O1023,S12,Textiles,Women's Clothing,622,42373.11,Air,0,On-Time,None,4.0,N,54.35,342.44
+O1024,S21,Health,Personal Care,414,30873.4,Air,0,On-Time,None,3.0,N,29.11,231.91
+O1025,S7,Textiles,Men's Clothing,355,4885.93,Road,0,On-Time,None,5.0,N,15.46,152.34
+O1026,S23,Food,Fresh Produce,631,24637.58,Air,1,Late,Weather,2.0,N,10.05,99.8
+O1027,S10,Food,Snacks & Confectionery,429,4343.64,Air,0,On-Time,None,1.0,N,8.79,70.33
+O1028,S7,Textiles,Home Textiles,191,20673.38,Air,0,On-Time,None,4.0,N,19.05,184.98
+O1029,S16,Food,Pantry Staples,992,20651.77,Sea,0,On-Time,None,14.0,N,32.64,354.43
+O1030,S3,Electronics,Small Appliances,834,3767.49,Rail,0,On-Time,None,9.0,N,28.54,326.19
+O1031,S16,Food,Snacks & Confectionery,10,17766.62,Sea,0,On-Time,None,11.0,N,0.4,30.2
+O1032,S11,Health,Skincare,840,5994.41,Air,0,On-Time,None,1.0,N,17.12,119.68
+O1033,S2,Textiles,Men's Clothing,959,40507.64,Air,0,On-Time,None,2.0,N,37.26,192.05
+O1034,S20,Household,Outdoor & Seasonal,576,47410.56,Air,0,On-Time,None,2.0,N,18.53,178.5
+O1035,S16,Food,Beverages,380,4079.67,Sea,0,On-Time,None,22.0,N,20.28,385.7
+O1036,S17,Health,Skincare,945,47778.2,Rail,0,On-Time,None,6.0,N,17.64,263.64
+O1037,S6,Household,Cleaning Supplies,920,26367.54,Air,2,Late,Weather,5.0,N,46.36,303.53
+O1038,S12,Textiles,Footwear,670,15328.5,Road,0,On-Time,None,6.0,N,22.01,255.14
+O1039,S27,Household,Outdoor & Seasonal,440,4304.67,Air,0,On-Time,None,2.0,N,16.95,141.57
+O1040,S14,Household,DIY & Tools,978,25280.9,Sea,0,On-Time,None,17.0,N,36.22,429.76
+O1041,S7,Textiles,Men's Clothing,318,39828.52,Air,2,Late,Shortage,4.0,N,14.04,107.93
+O1042,S20,Household,DIY & Tools,146,35500.78,Air,2,Late,Weather,6.0,N,14.73,153.73
+O1043,S5,Household,Laundry Products,211,2986.19,Sea,7,Late,Shortage,30.0,N,14.8,279.06
+O1044,S1,Household,DIY & Tools,445,4108.64,Sea,0,On-Time,None,25.0,N,23.7,417.22
+O1045,S16,Food,Pantry Staples,322,20442.23,Sea,0,On-Time,None,26.0,N,17.92,372.8
+O1046,S1,Household,Kitchen & Dining,126,15116.88,Sea,6,Late,Shortage,35.0,N,12.11,244.29
+O1047,S15,Health,Vitamins & Supplements,675,12003.02,Road,0,On-Time,None,2.0,N,7.89,94.56
+O1048,S18,Household,Cleaning Supplies,946,14409.72,Sea,6,Late,Weather,22.0,Y,38.66,354.35
+O1049,S3,Electronics,Small Appliances,812,40272.4,Road,0,On-Time,None,6.0,N,36.5,333.84
+O1050,S2,Textiles,Home Textiles,584,46496.79,Air,0,On-Time,None,4.0,N,44.94,294.36
+O1051,S7,Textiles,Women's Clothing,253,20552.58,Road,0,On-Time,None,5.0,N,11.84,113.43
+O1052,S9,Food,Pantry Staples,546,45352.49,Road,0,On-Time,None,3.0,N,9.61,115.09
+O1053,S4,Food,Fresh Produce,611,16414.04,Road,0,On-Time,None,3.0,N,11.61,124.2
+O1054,S17,Textiles,Footwear,84,24083.63,Rail,0,On-Time,None,5.0,N,2.28,50.73
+O1055,S30,Health,Skincare,815,11688.44,Road,0,On-Time,None,5.0,N,25.23,242.22
+O1056,S21,Health,Vitamins & Supplements,395,32203.56,Air,0,On-Time,None,2.0,N,18.87,167.23
+O1057,S5,Household,DIY & Tools,912,48959.57,Sea,0,On-Time,None,16.0,N,26.02,397.5
+O1058,S1,Household,Outdoor & Seasonal,219,30372.91,Sea,0,On-Time,None,24.0,N,14.33,257.05
+O1059,S29,Health,Personal Care,484,18211.8,Sea,0,On-Time,None,13.0,N,15.48,248.17
+O1060,S13,Textiles,Home Textiles,427,32566.96,Rail,0,On-Time,None,8.0,N,14.61,202.59
+O1061,S8,Food,Beverages,356,6584.57,Rail,0,On-Time,None,4.0,N,5.32,91.32
+O1062,S8,Food,Beverages,538,44488.62,Rail,0,On-Time,None,4.0,N,7.93,107.42
+O1063,S2,Textiles,Footwear,649,25402.66,Road,0,On-Time,None,4.0,N,20.12,162.9
+O1064,S5,Household,Outdoor & Seasonal,948,22742.81,Sea,0,On-Time,None,24.0,N,42.87,603.69
+O1065,S4,Electronics,Audio Devices,964,29500.31,Rail,3,Late,Shortage,10.0,N,27.22,304.14
+O1066,S13,Textiles,Home Textiles,885,31426.8,Rail,0,On-Time,None,7.0,N,22.95,216.2
+O1067,S12,Textiles,Footwear,772,4052.9,Road,2,Late,Customs Delay,5.0,N,16.99,117.59
+O1068,S29,Health,Vitamins & Supplements,188,34289.55,Sea,0,On-Time,None,17.0,N,9.49,210.15
+O1069,S26,Health,First Aid,191,12475.62,Air,0,On-Time,None,2.0,N,7.67,100.2
+O1070,S12,Textiles,Home Textiles,673,35840.66,Road,0,On-Time,None,4.0,N,18.75,157.86
+O1071,S23,Food,Pantry Staples,34,41215.47,Air,1,Late,Weather,2.0,N,1.15,21.62
+O1072,S10,Food,Beverages,976,40295.95,Air,0,On-Time,None,2.0,Y,33.81,219.68
+O1073,S27,Household,Kitchen & Dining,189,27848.8,Air,0,On-Time,None,3.0,N,15.33,157.3
+O1074,S2,Textiles,Children's Clothing,719,26248.41,Air,0,On-Time,None,2.0,N,26.29,190.53
+O1075,S28,Textiles,Men's Clothing,510,7572.36,Air,1,Late,Weather,5.0,N,34.32,313.71
+O1076,S18,Household,Laundry Products,865,38879.63,Sea,3,Late,Weather,27.0,N,43.17,517.03
+O1077,S14,Electronics,Audio Devices,170,13934.76,Sea,0,On-Time,None,30.0,Y,16.72,331.51
+O1078,S24,Food,Pantry Staples,186,25086.42,Rail,0,On-Time,None,4.0,Y,3.15,68.64
+O1079,S14,Household,Kitchen & Dining,294,14571.57,Sea,0,On-Time,None,20.0,N,17.26,255.73
+O1080,S14,Electronics,Office & Computing,72,7124.5,Sea,0,On-Time,None,30.0,N,7.86,256.6
+O1081,S8,Food,Pantry Staples,671,31663.11,Rail,0,On-Time,None,2.0,N,4.75,60.82
+O1082,S15,Health,Baby Care,675,3189.44,Road,0,On-Time,None,5.0,N,19.05,228.06
+O1083,S10,Food,Fresh Produce,165,37557.94,Air,0,On-Time,None,1.0,N,4.18,45.92
+O1084,S2,Textiles,Footwear,891,16220.55,Air,0,On-Time,None,4.0,N,59.48,408.07
+O1085,S2,Textiles,Home Textiles,478,506.67,Air,0,On-Time,None,3.0,N,31.63,201.91
+O1086,S7,Textiles,Men's Clothing,58,25800.89,Road,1,Late,Weather,6.0,Y,2.77,57.07
+O1087,S14,Electronics,Small Appliances,976,2819.17,Sea,0,On-Time,None,20.0,N,41.46,548.93
+O1088,S5,Household,Kitchen & Dining,858,14170.39,Sea,0,On-Time,None,29.0,N,60.23,732.27
+O1089,S29,Health,Personal Care,93,35495.34,Sea,0,On-Time,None,24.0,N,6.47,184.96
+O1090,S1,Household,Kitchen & Dining,370,3603.14,Sea,7,Late,Weather,37.0,N,26.81,499.85
+O1091,S22,Household,Cleaning Supplies,698,42047.26,Sea,0,On-Time,None,24.0,N,35.78,541.04
+O1092,S13,Textiles,Home Textiles,157,689.09,Rail,0,On-Time,None,8.0,N,5.57,109.65
+O1093,S18,Household,Outdoor & Seasonal,639,12717.78,Sea,3,Late,Customs Delay,17.0,N,20.58,299.5
+O1094,S24,Food,Fresh Produce,351,37174.75,Road,0,On-Time,None,4.0,N,11.79,114.1
+O1095,S25,Textiles,Home Textiles,485,16155.37,Road,0,On-Time,None,3.0,N,9.79,109.8
+O1096,S30,Health,Baby Care,72,5543.67,Road,0,On-Time,None,3.0,N,2.07,45.04
+O1097,S10,Food,Frozen Foods,710,18331.58,Air,0,On-Time,None,1.0,N,14.17,94.07
+O1098,S12,Textiles,Children's Clothing,369,13884.47,Air,0,On-Time,None,2.0,N,13.8,124.23
+O1099,S30,Health,First Aid,570,42214.24,Road,0,On-Time,None,5.0,N,18.04,191.88
+O1100,S23,Food,Pantry Staples,336,16010.72,Air,2,Late,Traffic Congestion,3.0,N,8.24,73.96
+O1101,S17,Health,Vitamins & Supplements,778,39552.16,Rail,0,On-Time,None,5.0,N,15.61,167.13
+O1102,S23,Food,Frozen Foods,745,44647.67,Air,0,On-Time,None,1.0,N,14.24,103.42
+O1103,S17,Health,Personal Care,150,21973.96,Rail,3,Late,Customs Delay,8.0,N,3.75,79.91
+O1104,S10,Food,Frozen Foods,999,45542.19,Air,0,On-Time,None,1.0,N,14.39,126.58
+O1105,S26,Health,First Aid,224,19177.24,Air,2,Late,Shortage,5.0,N,15.63,164.08
+O1106,S22,Household,Outdoor & Seasonal,444,48221.88,Sea,0,On-Time,None,24.0,N,25.72,407.17
+O1107,S17,Health,Personal Care,900,4919.83,Rail,0,On-Time,None,3.0,N,9.91,118.38
+O1108,S15,Health,First Aid,961,34507.45,Road,0,On-Time,None,5.0,N,29.14,283.87
+O1109,S16,Food,Frozen Foods,732,24943.8,Sea,0,On-Time,None,12.0,N,16.32,249.16
+O1110,S26,Health,First Aid,327,19688.62,Rail,0,On-Time,None,6.0,N,7.22,134.45
+O1111,S15,Health,Skincare,41,31819.24,Road,0,On-Time,None,5.0,N,2.5,53.13
+O1112,S9,Food,Pantry Staples,679,35340.93,Road,0,On-Time,None,2.0,N,8.86,91.72
+O1113,S1,Household,Outdoor & Seasonal,294,715.98,Sea,0,On-Time,None,19.0,N,14.1,244.42
+O1114,S28,Textiles,Footwear,314,8764.18,Air,0,On-Time,None,2.0,N,10.88,119.57
+O1115,S22,Household,Cleaning Supplies,438,35795.78,Sea,0,On-Time,None,24.0,N,20.64,378.94
+O1116,S26,Health,Baby Care,486,33486.08,Air,0,On-Time,None,2.0,N,20.88,182.03
+O1117,S13,Textiles,Women's Clothing,295,48319.35,Rail,0,On-Time,None,4.0,N,5.1,85.25
+O1118,S18,Household,Kitchen & Dining,153,38171.37,Sea,0,On-Time,None,26.0,N,11.26,258.23
+O1119,S13,Food,Frozen Foods,433,47563.25,Rail,0,On-Time,None,6.0,N,9.38,152.67
+O1120,S12,Textiles,Footwear,28,35275.75,Air,0,On-Time,None,3.0,N,2.8,49.98
+O1121,S3,Electronics,Small Appliances,27,15253.58,Rail,0,On-Time,None,5.0,N,0.71,32.63
+O1122,S13,Textiles,Footwear,778,5715.56,Rail,0,On-Time,None,7.0,N,17.58,212.28
+O1123,S11,Health,Skincare,599,39200.28,Air,0,On-Time,None,3.0,N,33.89,291.4
+O1124,S8,Food,Pantry Staples,380,32385.39,Air,0,On-Time,None,2.0,Y,14.26,144.24
+O1125,S22,Textiles,Children's Clothing,184,2885.21,Sea,0,On-Time,None,24.0,N,10.89,269.39
+O1126,S16,Food,Pantry Staples,203,18322.5,Sea,0,On-Time,None,26.0,N,15.1,304.72
+O1127,S3,Electronics,Consumer Electronics,511,47861.59,Rail,0,On-Time,None,9.0,Y,19.14,291.64
+O1128,S13,Textiles,Home Textiles,997,25269.86,Rail,0,On-Time,None,8.0,N,31.99,287.35
+O1129,S17,Textiles,Home Textiles,122,21920.09,Rail,2,Late,Shortage,10.0,N,4.59,100.99
+O1130,S18,Household,DIY & Tools,123,23156.13,Sea,0,On-Time,None,26.0,N,7.73,219.97
+O1131,S5,Household,Kitchen & Dining,231,10839.69,Sea,0,On-Time,None,30.0,Y,16.72,361.48
+O1132,S23,Food,Fresh Produce,687,18751.0,Air,0,On-Time,None,1.0,N,15.37,95.76
+O1133,S16,Food,Beverages,956,18805.76,Road,0,On-Time,None,3.0,N,19.15,162.27
+O1134,S8,Food,Snacks & Confectionery,840,3091.57,Air,2,Late,Shortage,3.0,N,16.58,115.9
+O1135,S1,Household,DIY & Tools,653,38494.6,Sea,3,Late,Weather,34.0,N,36.89,612.1
+O1136,S22,Textiles,Footwear,906,21116.97,Sea,0,On-Time,None,19.0,N,37.46,394.85
+O1137,S30,Textiles,Women's Clothing,273,41197.9,Sea,0,On-Time,None,19.0,N,10.93,238.41
+O1138,S20,Household,Laundry Products,934,42592.23,Air,0,On-Time,None,4.0,N,68.82,431.66
+O1139,S19,Electronics,Audio Devices,64,10993.71,Road,0,On-Time,None,4.0,N,2.88,54.98
+O1140,S3,Electronics,Consumer Electronics,880,33039.0,Road,0,On-Time,None,5.0,N,34.01,287.13
+O1141,S22,Textiles,Men's Clothing,652,23877.95,Sea,0,On-Time,None,11.0,N,16.54,234.17
+O1142,S23,Food,Frozen Foods,809,44067.76,Air,0,On-Time,None,1.0,N,14.57,113.85
+O1143,S7,Textiles,Children's Clothing,787,11179.16,Road,0,On-Time,None,5.0,N,30.69,200.29
+O1144,S24,Food,Snacks & Confectionery,467,34051.75,Rail,3,Late,Customs Delay,8.0,N,9.93,146.36
+O1145,S19,Electronics,Office & Computing,988,30583.73,Road,0,On-Time,None,5.0,N,26.11,301.01
+O1146,S8,Food,Beverages,887,15117.42,Rail,1,Late,Customs Delay,6.0,N,15.8,185.9
+O1147,S11,Electronics,Home Gadgets,171,7261.74,Air,0,On-Time,None,4.0,N,14.17,212.24
+O1148,S8,Food,Fresh Produce,389,32756.17,Rail,0,On-Time,None,2.0,N,3.14,53.18
+O1149,S11,Health,Personal Care,96,37060.57,Air,1,Late,Weather,4.0,N,7.13,112.72
+O1150,S25,Textiles,Women's Clothing,64,16123.55,Rail,0,On-Time,None,5.0,N,1.77,44.44
+O1151,S30,Health,Vitamins & Supplements,485,32419.21,Air,0,On-Time,None,1.0,N,9.04,84.67
+O1152,S25,Textiles,Footwear,809,20058.98,Rail,0,On-Time,None,8.0,N,20.52,263.5
+O1153,S11,Health,Baby Care,187,35803.74,Air,0,On-Time,None,3.0,N,12.82,148.12
+O1154,S13,Food,Frozen Foods,400,10361.16,Rail,0,On-Time,None,5.0,N,9.22,136.1
+O1155,S21,Health,First Aid,358,44565.64,Air,0,On-Time,None,1.0,N,7.9,75.38
+O1156,S6,Household,Kitchen & Dining,17,14726.78,Air,0,On-Time,None,2.0,N,1.04,29.63
+O1157,S14,Electronics,Office & Computing,842,18705.41,Sea,0,On-Time,None,30.0,N,64.79,736.72
+O1158,S21,Health,Vitamins & Supplements,322,3375.55,Air,0,On-Time,None,3.0,N,23.66,211.58
+O1159,S17,Health,Skincare,768,6019.85,Rail,0,On-Time,None,6.0,N,15.03,202.85
+O1160,S29,Health,Vitamins & Supplements,844,26035.16,Sea,0,On-Time,None,13.0,N,19.55,304.35
+O1161,S16,Food,Fresh Produce,993,13745.84,Sea,0,On-Time,None,20.0,N,46.41,532.29
+O1162,S6,Health,Skincare,992,41856.27,Air,2,Late,Shortage,3.0,N,19.93,118.9
+O1163,S4,Food,Frozen Foods,452,1227.32,Sea,0,On-Time,None,11.0,N,14.16,199.93
+O1164,S4,Food,Pantry Staples,776,19265.16,Rail,0,On-Time,None,5.0,N,16.53,161.08
+O1165,S3,Electronics,Small Appliances,337,17198.6,Rail,0,On-Time,None,6.0,N,8.79,149.9
+O1166,S23,Food,Pantry Staples,63,1456.72,Air,2,Late,Weather,3.0,N,1.71,27.27
+O1167,S12,Textiles,Women's Clothing,770,6656.24,Road,0,On-Time,None,5.0,N,20.74,231.44
+O1168,S4,Electronics,Home Gadgets,248,20975.31,Rail,0,On-Time,None,5.0,Y,4.87,109.99
+O1169,S25,Textiles,Men's Clothing,238,24896.8,Rail,0,On-Time,None,4.0,N,4.12,72.99
+O1170,S7,Textiles,Footwear,588,20512.34,Road,1,Late,Traffic Congestion,7.0,N,25.65,213.43
+O1171,S6,Household,Kitchen & Dining,60,26781.42,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1172,S9,Food,Frozen Foods,618,29959.02,Rail,0,On-Time,None,2.0,N,5.17,68.61
+O1173,S12,Textiles,Women's Clothing,613,991.23,Road,0,On-Time,None,4.0,N,15.37,144.1
+O1174,S8,Food,Frozen Foods,273,23472.71,Air,0,On-Time,None,1.0,N,6.04,59.8
+O1175,S12,Textiles,Children's Clothing,427,48193.21,Air,0,On-Time,None,2.0,N,14.38,141.53
+O1176,S20,Household,Outdoor & Seasonal,812,26192.1,Air,0,On-Time,None,3.0,N,43.05,270.76
+O1177,S4,Food,Beverages,105,34038.34,Sea,0,Cancelled,Transport Failure,,N,0.0,0.0
+O1178,S5,Household,Cleaning Supplies,97,15937.26,Sea,0,On-Time,None,29.0,N,9.16,230.17
+O1179,S16,Food,Frozen Foods,87,38812.57,Sea,0,On-Time,None,18.0,N,5.75,134.77
+O1180,S21,Health,Baby Care,297,38759.61,Air,1,Late,Weather,2.0,N,5.76,60.53
+O1181,S8,Food,Fresh Produce,129,26304.15,Rail,0,On-Time,None,2.0,N,1.24,26.69
+O1182,S30,Health,First Aid,823,48812.68,Road,1,Late,Traffic Congestion,3.0,N,10.09,108.96
+O1183,S29,Health,Skincare,500,6714.74,Sea,6,Late,Weather,28.0,N,25.37,449.01
+O1184,S10,Food,Frozen Foods,921,1338.91,Rail,0,On-Time,None,2.0,N,7.56,72.65
+O1185,S28,Textiles,Men's Clothing,461,38622.83,Air,2,Late,Weather,6.0,N,39.45,260.75
+O1186,S3,Electronics,Home Gadgets,509,40454.2,Sea,0,On-Time,None,19.0,N,26.27,409.4
+O1187,S16,Food,Fresh Produce,174,6450.26,Sea,5,Late,Weather,27.0,N,9.34,247.3
+O1188,S15,Health,Vitamins & Supplements,191,13646.35,Road,0,On-Time,None,4.0,N,7.19,95.44
+O1189,S24,Food,Beverages,478,1368.84,Rail,0,On-Time,None,6.0,N,9.37,160.78
+O1190,S1,Household,Kitchen & Dining,919,15018.78,Sea,0,On-Time,None,30.0,N,68.68,686.35
+O1191,S11,Electronics,Consumer Electronics,744,38770.52,Air,0,On-Time,None,3.0,N,38.56,340.53
+O1192,S26,Health,Baby Care,832,26139.05,Air,0,On-Time,None,1.0,N,14.05,121.5
+O1193,S1,Household,DIY & Tools,953,17730.73,Sea,0,Cancelled,Transport Failure,,N,0.0,0.0
+O1194,S1,Household,Cleaning Supplies,987,18901.1,Sea,0,On-Time,None,27.0,N,66.86,691.78
+O1195,S28,Textiles,Home Textiles,16,567.0,Air,2,Late,Weather,5.0,N,1.3,39.29
+O1196,S25,Textiles,Men's Clothing,339,15340.13,Sea,0,On-Time,None,27.0,N,21.56,373.78
+O1197,S24,Food,Snacks & Confectionery,784,32499.71,Rail,2,Cancelled,Transport Failure,,N,0.0,0.0
+O1198,S14,Household,Cleaning Supplies,682,48722.62,Sea,0,On-Time,None,30.0,Y,44.21,667.52
+O1199,S10,Food,Fresh Produce,160,42429.51,Air,0,On-Time,None,1.0,Y,3.29,46.35
+O1200,S8,Food,Fresh Produce,94,1667.95,Air,0,On-Time,None,1.0,N,2.31,35.94
+O1201,S4,Food,Beverages,156,44978.75,Sea,6,Late,Weather,21.0,N,6.28,151.23
+O1202,S19,Electronics,Consumer Electronics,633,39268.32,Road,0,On-Time,None,4.0,N,20.2,173.39
+O1203,S30,Textiles,Home Textiles,390,39128.62,Road,0,On-Time,None,3.0,N,9.51,82.59
+O1204,S29,Health,Vitamins & Supplements,924,23170.79,Rail,0,On-Time,None,3.0,N,9.97,125.53
+O1205,S16,Food,Snacks & Confectionery,557,20201.26,Sea,6,Late,Weather,24.0,N,27.85,335.17
+O1206,S13,Textiles,Men's Clothing,294,15494.33,Rail,0,On-Time,None,6.0,N,7.42,121.74
+O1207,S3,Electronics,Audio Devices,709,3751.9,Rail,0,On-Time,None,5.0,N,10.9,179.7
+O1208,S1,Household,DIY & Tools,91,11797.65,Sea,0,On-Time,None,19.0,N,4.77,142.56
+O1209,S26,Health,Baby Care,523,12706.88,Air,0,On-Time,None,1.0,N,9.96,87.5
+O1210,S5,Household,Cleaning Supplies,906,24461.81,Sea,0,On-Time,None,27.0,N,45.6,632.95
+O1211,S9,Electronics,Home Gadgets,824,37498.5,Road,0,On-Time,None,4.0,N,25.55,194.4
+O1212,S3,Electronics,Audio Devices,718,23953.59,Rail,0,On-Time,None,5.0,N,14.82,177.85
+O1213,S20,Household,Cleaning Supplies,925,3363.3,Air,0,On-Time,None,2.0,N,30.13,219.87
+O1214,S3,Electronics,Audio Devices,532,47910.6,Rail,0,On-Time,None,7.0,N,15.05,230.2
+O1215,S5,Household,DIY & Tools,755,47164.85,Sea,0,On-Time,None,17.0,N,31.03,357.71
+O1216,S29,Health,Vitamins & Supplements,395,39366.88,Sea,0,On-Time,None,18.0,N,20.47,312.3
+O1217,S17,Health,Skincare,716,49570.73,Rail,0,On-Time,None,7.0,N,21.55,232.09
+O1218,S27,Household,Outdoor & Seasonal,480,27451.88,Air,0,On-Time,None,4.0,Y,38.26,288.96
+O1219,S15,Health,Baby Care,128,48157.03,Road,1,Late,Weather,4.0,N,3.71,54.04
+O1220,S28,Textiles,Children's Clothing,405,4242.45,Air,0,On-Time,None,4.0,N,33.73,288.9
+O1221,S3,Electronics,Audio Devices,541,18601.2,Rail,0,On-Time,None,7.0,N,15.04,211.69
+O1222,S25,Textiles,Men's Clothing,270,11656.37,Sea,0,On-Time,None,23.0,N,13.61,271.57
+O1223,S13,Textiles,Footwear,814,10193.74,Rail,0,On-Time,None,8.0,N,20.27,248.73
+O1224,S1,Household,Laundry Products,943,7469.75,Sea,6,Late,Weather,17.0,N,22.54,250.1
+O1225,S19,Electronics,Office & Computing,265,31309.48,Road,0,On-Time,None,7.0,N,13.12,215.51
+O1226,S26,Health,First Aid,743,39175.43,Air,0,On-Time,None,3.0,N,33.42,288.08
+O1227,S21,Health,Baby Care,914,29125.77,Air,0,On-Time,None,1.0,N,17.9,107.88
+O1228,S22,Textiles,Men's Clothing,235,7774.65,Sea,0,On-Time,None,31.0,N,15.67,371.62
+O1229,S20,Household,Outdoor & Seasonal,62,40650.63,Air,0,On-Time,None,2.0,N,3.47,53.35
+O1230,S24,Food,Frozen Foods,949,31979.76,Road,0,On-Time,None,4.0,N,24.82,215.62
+O1231,S11,Electronics,Small Appliances,876,19714.2,Air,0,On-Time,None,3.0,N,56.48,361.49
+O1232,S7,Textiles,Women's Clothing,509,33869.45,Road,0,On-Time,None,6.0,N,21.45,195.72
+O1233,S7,Textiles,Women's Clothing,515,13365.3,Air,1,Late,Traffic Congestion,3.0,N,16.66,155.46
+O1234,S25,Textiles,Home Textiles,863,17587.01,Sea,0,On-Time,None,23.0,N,44.09,474.1
+O1235,S23,Food,Snacks & Confectionery,373,45915.55,Air,1,Late,Shortage,2.0,N,8.72,71.49
+O1236,S24,Food,Frozen Foods,289,14879.97,Rail,0,On-Time,None,5.0,N,7.4,105.75
+O1237,S9,Food,Snacks & Confectionery,602,23764.42,Road,1,Late,Shortage,3.0,N,8.07,78.61
+O1238,S23,Food,Snacks & Confectionery,723,44561.99,Air,0,Cancelled,Supplier Bankruptcy,,N,0.0,0.0
+O1239,S18,Household,Kitchen & Dining,167,35532.21,Sea,3,Late,Customs Delay,21.0,N,9.73,199.91
+O1240,S12,Textiles,Footwear,641,3579.06,Air,0,On-Time,None,2.0,N,21.31,185.16
+O1241,S10,Food,Fresh Produce,68,7791.5,Rail,3,Late,Weather,7.0,N,1.51,42.46
+O1242,S26,Health,Skincare,736,888.16,Air,0,On-Time,None,2.0,N,26.31,204.91
+O1243,S1,Household,Kitchen & Dining,137,31730.63,Sea,0,On-Time,None,23.0,N,7.38,203.53
+O1244,S15,Health,First Aid,745,22659.83,Road,0,On-Time,None,4.0,N,18.68,182.82
+O1245,S29,Health,Personal Care,730,7146.61,Sea,0,On-Time,None,26.0,N,38.38,615.64
+O1246,S24,Food,Frozen Foods,891,47917.74,Rail,0,On-Time,None,5.0,N,17.28,183.06
+O1247,S18,Household,Outdoor & Seasonal,124,26718.16,Air,0,On-Time,None,3.0,Y,10.65,126.6
+O1248,S21,Health,Skincare,218,12473.72,Air,0,On-Time,None,2.0,N,8.82,110.69
+O1249,S10,Food,Fresh Produce,535,25279.88,Air,0,On-Time,None,1.0,N,11.72,82.85
+O1250,S29,Health,Skincare,530,34141.21,Sea,0,On-Time,None,13.0,N,13.26,257.23
+O1251,S24,Food,Snacks & Confectionery,561,4273.84,Road,0,On-Time,None,2.0,N,7.93,84.94
+O1252,S23,Food,Pantry Staples,971,14097.84,Air,2,Late,Customs Delay,3.0,N,14.33,117.97
+O1253,S25,Textiles,Women's Clothing,246,40444.79,Rail,0,On-Time,None,7.0,N,8.85,128.02
+O1254,S19,Electronics,Office & Computing,290,23253.41,Road,0,On-Time,None,5.0,N,12.34,151.47
+O1255,S29,Health,Baby Care,368,27555.57,Sea,0,On-Time,None,14.0,N,13.55,251.37
+O1256,S23,Food,Frozen Foods,210,21924.39,Air,0,On-Time,None,2.0,N,10.64,96.68
+O1257,S24,Food,Snacks & Confectionery,767,2673.05,Rail,0,On-Time,None,5.0,Y,14.99,187.42
+O1258,S10,Food,Frozen Foods,287,8704.61,Air,0,On-Time,None,1.0,N,7.29,62.42
+O1259,S29,Health,Personal Care,244,22554.31,Sea,0,On-Time,None,10.0,Y,6.97,134.66
+O1260,S25,Textiles,Footwear,503,10854.68,Rail,3,Late,Shortage,10.0,N,16.2,178.87
+O1261,S30,Health,Personal Care,13,2973.96,Road,0,On-Time,None,3.0,N,0.48,19.67
+O1262,S10,Food,Fresh Produce,675,42260.66,Air,0,On-Time,None,2.0,N,21.51,172.35
+O1263,S27,Household,Outdoor & Seasonal,451,49069.03,Air,0,On-Time,None,4.0,N,36.47,319.41
+O1264,S25,Textiles,Footwear,38,39760.57,Rail,0,On-Time,None,4.0,N,0.75,27.81
+O1265,S6,Household,DIY & Tools,118,42762.35,Air,0,On-Time,None,4.0,N,11.96,147.3
+O1266,S27,Household,DIY & Tools,619,12477.87,Air,0,On-Time,None,3.0,N,35.15,242.34
+O1267,S13,Textiles,Children's Clothing,736,48051.04,Rail,0,On-Time,None,8.0,N,22.95,244.42
+O1268,S22,Household,Outdoor & Seasonal,814,10247.82,Sea,0,On-Time,None,19.0,N,27.3,433.35
+O1269,S24,Food,Beverages,84,47595.78,Rail,2,Late,Shortage,5.0,N,1.14,33.98
+O1270,S30,Health,Vitamins & Supplements,847,49743.56,Road,0,On-Time,None,3.0,N,16.58,159.16
+O1271,S7,Textiles,Women's Clothing,155,35730.28,Road,0,On-Time,None,5.0,N,7.73,93.12
+O1272,S29,Health,Skincare,137,49066.61,Sea,0,On-Time,None,20.0,N,7.49,225.01
+O1273,S30,Health,Vitamins & Supplements,862,28692.22,Road,0,On-Time,None,2.0,N,10.92,105.4
+O1274,S23,Food,Snacks & Confectionery,51,13347.32,Air,0,On-Time,None,1.0,N,1.54,27.86
+O1275,S22,Textiles,Home Textiles,365,22131.3,Sea,0,On-Time,None,24.0,N,22.59,321.25
+O1276,S8,Food,Frozen Foods,50,29881.27,Rail,0,On-Time,None,3.0,N,0.77,26.18
+O1277,S24,Food,Pantry Staples,943,4117.54,Road,3,Late,Weather,6.0,N,17.58,149.72
+O1278,S16,Food,Beverages,43,31305.99,Sea,0,On-Time,None,17.0,N,2.21,94.94
+O1279,S26,Health,Skincare,26,49068.3,Air,0,On-Time,None,1.0,N,0.95,21.05
+O1280,S30,Health,First Aid,686,9910.33,Road,1,Late,Shortage,5.0,N,15.8,168.84
+O1281,S29,Health,First Aid,162,39733.46,Sea,0,On-Time,None,12.0,N,5.16,122.92
+O1282,S2,Textiles,Home Textiles,387,45440.99,Air,0,On-Time,None,3.0,N,19.24,209.98
+O1283,S9,Food,Fresh Produce,597,47213.23,Road,0,On-Time,None,3.0,N,10.98,116.07
+O1284,S14,Electronics,Consumer Electronics,608,48026.71,Sea,4,Late,Shortage,36.0,N,49.64,750.42
+O1285,S20,Household,Laundry Products,638,26312.25,Air,0,On-Time,None,3.0,N,31.98,267.49
+O1286,S6,Household,Outdoor & Seasonal,883,48876.74,Air,0,On-Time,None,2.0,Y,26.56,221.86
+O1287,S19,Electronics,Audio Devices,351,37986.86,Rail,0,On-Time,None,7.0,N,10.1,167.41
+O1288,S7,Textiles,Men's Clothing,990,8502.74,Road,0,On-Time,None,6.0,N,30.55,265.71
+O1289,S22,Textiles,Footwear,36,24106.56,Sea,0,On-Time,None,18.0,N,1.89,83.01
+O1290,S17,Health,Personal Care,834,36057.39,Rail,0,On-Time,None,4.0,N,13.66,166.09
+O1291,S29,Health,Personal Care,296,12743.35,Sea,6,Late,Shortage,32.0,N,21.8,386.95
+O1292,S17,Textiles,Men's Clothing,655,32210.45,Rail,0,On-Time,None,4.0,N,11.55,112.66
+O1293,S16,Food,Frozen Foods,740,33496.72,Sea,0,On-Time,None,20.0,N,37.64,466.76
+O1294,S12,Textiles,Women's Clothing,177,8553.64,Air,0,On-Time,None,4.0,N,17.48,192.18
+O1295,S16,Food,Beverages,619,28471.72,Sea,0,On-Time,None,19.0,N,22.09,423.84
+O1296,S9,Food,Frozen Foods,277,38695.53,Road,0,On-Time,None,1.0,N,2.39,30.73
+O1297,S28,Textiles,Home Textiles,758,25195.34,Air,0,On-Time,None,4.0,N,63.82,331.21
+O1298,S25,Textiles,Home Textiles,830,1099.1,Sea,0,On-Time,None,23.0,N,46.79,464.6
+O1299,S30,Textiles,Home Textiles,464,947.4,Road,0,On-Time,None,5.0,N,16.68,167.29
+O1300,S15,Health,Baby Care,915,18172.95,Road,0,On-Time,None,3.0,N,15.87,169.95
+O1301,S8,Food,Snacks & Confectionery,694,46346.61,Air,0,On-Time,None,1.0,N,14.8,92.66
+O1302,S4,Electronics,Audio Devices,410,11819.5,Rail,0,On-Time,None,9.0,N,16.33,238.37
+O1303,S18,Household,Outdoor & Seasonal,931,31901.0,Sea,0,On-Time,None,27.0,N,64.49,696.89
+O1304,S20,Household,DIY & Tools,990,11492.76,Sea,0,On-Time,None,16.0,N,29.12,367.01
+O1305,S25,Textiles,Children's Clothing,485,16422.66,Sea,0,On-Time,None,31.0,N,31.76,505.3
+O1306,S12,Textiles,Children's Clothing,711,42478.08,Road,0,On-Time,None,4.0,N,16.91,162.31
+O1307,S25,Textiles,Footwear,643,36578.64,Rail,1,Late,Customs Delay,7.0,N,16.34,175.54
+O1308,S6,Health,Personal Care,567,5222.26,Air,1,Late,Shortage,3.0,N,19.16,191.73
+O1309,S18,Household,Kitchen & Dining,585,21720.75,Sea,0,On-Time,None,14.0,N,15.62,263.03
+O1310,S28,Textiles,Men's Clothing,139,1943.9,Air,0,On-Time,None,4.0,Y,15.91,160.34
+O1311,S13,Textiles,Men's Clothing,831,24304.06,Rail,0,On-Time,None,8.0,N,19.64,267.39
+O1312,S4,Electronics,Consumer Electronics,372,33290.48,Rail,0,On-Time,None,5.0,Y,8.68,134.35
+O1313,S22,Textiles,Home Textiles,714,6365.88,Sea,0,On-Time,None,31.0,N,46.89,647.23
+O1314,S26,Health,Vitamins & Supplements,828,14799.8,Air,0,On-Time,None,2.0,N,34.35,210.91
+O1315,S3,Electronics,Consumer Electronics,702,20192.91,Road,0,On-Time,None,5.0,N,24.16,223.51
+O1316,S24,Food,Snacks & Confectionery,301,46016.79,Road,0,On-Time,None,2.0,N,5.34,53.85
+O1317,S24,Food,Beverages,380,49666.12,Sea,0,On-Time,None,20.0,N,21.9,309.45
+O1318,S24,Food,Pantry Staples,803,2723.11,Rail,0,On-Time,None,3.0,N,7.1,107.12
+O1319,S6,Household,DIY & Tools,38,38169.89,Air,0,On-Time,None,4.0,N,3.66,92.18
+O1320,S4,Electronics,Audio Devices,158,18900.34,Sea,6,Late,Shortage,20.0,N,5.59,168.42
+O1321,S7,Textiles,Home Textiles,788,19926.68,Road,0,On-Time,None,6.0,N,33.41,270.81
+O1322,S4,Food,Pantry Staples,305,37836.12,Sea,3,Late,Customs Delay,23.0,N,17.93,284.65
+O1323,S21,Health,First Aid,20,45962.11,Air,0,On-Time,None,3.0,N,1.88,50.67
+O1324,S16,Food,Beverages,521,47570.97,Sea,0,On-Time,None,17.0,N,21.68,319.02
+O1325,S7,Textiles,Women's Clothing,685,29067.57,Road,0,On-Time,None,5.0,N,20.27,186.65
+O1326,S24,Food,Pantry Staples,122,18177.5,Rail,0,On-Time,None,4.0,N,2.66,50.78
+O1327,S19,Electronics,Audio Devices,196,39483.68,Road,0,On-Time,None,7.0,N,13.28,183.6
+O1328,S8,Food,Pantry Staples,816,12924.57,Rail,0,On-Time,None,3.0,N,8.13,118.54
+O1329,S15,Health,First Aid,753,28421.66,Road,0,On-Time,None,4.0,N,20.03,180.31
+O1330,S30,Textiles,Footwear,236,18249.63,Road,0,On-Time,None,3.0,N,4.69,63.7
+O1331,S16,Food,Frozen Foods,319,33003.24,Sea,0,On-Time,None,12.0,N,9.9,190.1
+O1332,S16,Food,Fresh Produce,107,12399.75,Sea,0,On-Time,None,9.0,Y,2.87,74.33
+O1333,S28,Textiles,Footwear,64,9983.85,Air,1,Late,Weather,5.0,N,5.88,113.41
+O1334,S16,Food,Snacks & Confectionery,632,45952.83,Sea,6,Late,Weather,16.0,N,14.08,219.79
+O1335,S18,Household,Cleaning Supplies,673,5539.28,Sea,4,Late,Customs Delay,19.0,N,21.29,339.06
+O1336,S13,Food,Fresh Produce,767,25544.92,Air,0,On-Time,None,2.0,N,28.57,199.85
+O1337,S5,Household,Cleaning Supplies,415,11432.21,Sea,0,On-Time,None,14.0,N,14.6,235.55
+O1338,S9,Electronics,Office & Computing,78,2427.03,Road,2,Late,Weather,6.0,N,2.35,64.54
+O1339,S26,Health,First Aid,321,2282.93,Air,0,On-Time,None,1.0,N,7.46,70.78
+O1340,S24,Food,Frozen Foods,298,9173.48,Rail,0,On-Time,None,2.0,N,2.75,43.06
+O1341,S6,Health,First Aid,771,43405.13,Air,0,On-Time,None,3.0,N,40.38,300.74
+O1342,S11,Health,Baby Care,557,14482.7,Air,0,On-Time,None,3.0,N,26.58,273.02
+O1343,S21,Health,Baby Care,760,47547.73,Air,0,On-Time,None,1.0,N,15.48,106.74
+O1344,S27,Household,Laundry Products,157,29290.3,Air,0,On-Time,None,3.0,N,13.04,139.74
+O1345,S5,Household,Outdoor & Seasonal,476,22112.4,Sea,0,On-Time,None,28.0,N,28.42,511.73
+O1346,S25,Textiles,Women's Clothing,748,29214.4,Sea,0,On-Time,None,13.0,N,20.1,279.07
+O1347,S17,Health,Vitamins & Supplements,253,26076.57,Rail,0,On-Time,None,5.0,N,4.82,96.86
+O1348,S25,Textiles,Home Textiles,500,38059.42,Sea,0,On-Time,None,25.0,N,30.44,443.6
+O1349,S1,Household,Cleaning Supplies,858,14483.56,Sea,0,On-Time,None,21.0,N,33.83,492.13
+O1350,S23,Food,Pantry Staples,967,17975.99,Air,0,On-Time,None,1.0,Y,16.25,123.29
+O1351,S6,Health,Skincare,516,44757.67,Air,0,On-Time,None,1.0,N,10.91,94.8
+O1352,S25,Textiles,Women's Clothing,374,47349.6,Rail,0,On-Time,None,8.0,N,12.6,160.68
+O1353,S19,Electronics,Home Gadgets,491,44681.63,Road,0,On-Time,None,7.0,N,23.31,303.7
+O1354,S30,Health,Baby Care,210,21262.68,Road,3,Late,Shortage,6.0,N,4.92,69.44
+O1355,S21,Health,Baby Care,163,39128.09,Air,1,Late,Weather,3.0,N,7.78,95.7
+O1356,S26,Health,Personal Care,459,24078.62,Air,0,On-Time,None,1.0,Y,7.34,83.18
+O1357,S30,Health,Personal Care,510,25128.22,Road,0,On-Time,None,4.0,N,11.98,147.8
+O1358,S24,Food,Pantry Staples,82,10631.67,Road,0,On-Time,None,4.0,N,3.51,63.85
+O1359,S26,Health,Personal Care,722,29760.95,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1360,S22,Household,Laundry Products,305,9713.73,Sea,0,On-Time,None,23.0,N,19.32,300.04
+O1361,S26,Health,Baby Care,26,16912.45,Air,2,Late,Customs Delay,4.0,N,1.86,39.9
+O1362,S3,Electronics,Small Appliances,650,42823.99,Rail,0,On-Time,None,9.0,N,20.11,330.23
+O1363,S28,Textiles,Men's Clothing,226,10750.25,Air,0,On-Time,None,3.0,N,14.26,162.45
+O1364,S4,Food,Snacks & Confectionery,70,4022.34,Rail,0,On-Time,None,4.0,N,1.52,43.9
+O1365,S10,Food,Snacks & Confectionery,948,3915.88,Air,0,On-Time,None,2.0,Y,39.08,234.08
+O1366,S29,Health,Personal Care,625,47068.83,Sea,3,Late,Traffic Congestion,23.0,N,33.6,430.7
+O1367,S27,Household,Outdoor & Seasonal,51,25592.56,Air,0,On-Time,None,2.0,N,3.1,45.0
+O1368,S1,Household,Cleaning Supplies,34,20765.9,Sea,0,Cancelled,Transport Failure,,N,0.0,0.0
+O1369,S7,Textiles,Women's Clothing,48,40638.49,Road,0,On-Time,None,4.0,N,2.06,42.41
+O1370,S23,Food,Fresh Produce,812,41873.38,Air,0,On-Time,None,2.0,Y,28.66,216.78
+O1371,S17,Health,Vitamins & Supplements,140,16943.46,Rail,0,On-Time,None,5.0,N,3.3,76.8
+O1372,S13,Food,Fresh Produce,507,34834.09,Rail,0,On-Time,None,4.0,N,6.53,118.72
+O1373,S26,Health,Baby Care,238,38670.58,Air,0,On-Time,None,2.0,N,9.18,119.31
+O1374,S24,Food,Beverages,117,32905.21,Rail,0,On-Time,None,4.0,N,2.56,49.87
+O1375,S21,Health,Personal Care,181,8003.96,Air,0,On-Time,None,2.0,N,8.15,97.21
+O1376,S27,Household,Outdoor & Seasonal,444,43856.21,Air,0,On-Time,None,3.0,N,24.57,236.29
+O1377,S3,Electronics,Office & Computing,487,27185.18,Rail,0,On-Time,None,7.0,Y,12.85,222.77
+O1378,S10,Food,Snacks & Confectionery,111,14482.39,Air,0,On-Time,None,1.0,N,3.13,41.78
+O1379,S1,Household,Outdoor & Seasonal,875,21548.8,Sea,0,On-Time,None,25.0,N,52.24,546.36
+O1380,S7,Textiles,Home Textiles,533,2359.77,Road,2,Late,Shortage,5.0,N,10.2,115.6
+O1381,S30,Textiles,Home Textiles,284,6829.41,Road,0,On-Time,None,4.0,N,7.42,96.51
+O1382,S17,Health,Baby Care,622,38394.56,Rail,0,On-Time,None,4.0,N,8.54,118.82
+O1383,S30,Textiles,Women's Clothing,53,500.58,Road,0,On-Time,None,3.0,N,1.84,36.5
+O1384,S17,Textiles,Women's Clothing,964,21120.01,Rail,0,On-Time,None,5.0,N,17.76,169.23
+O1385,S8,Food,Snacks & Confectionery,826,26364.25,Air,0,On-Time,None,1.0,N,15.28,109.17
+O1386,S14,Electronics,Consumer Electronics,966,3204.4,Sea,0,On-Time,None,16.0,N,34.35,427.92
+O1387,S6,Health,Baby Care,26,48667.37,Air,2,Late,Weather,4.0,N,1.51,39.89
+O1388,S16,Food,Fresh Produce,339,11693.2,Sea,0,On-Time,None,13.0,N,12.39,217.31
+O1389,S1,Household,Cleaning Supplies,578,15557.84,Sea,4,Late,Weather,17.0,Y,17.53,241.04
+O1390,S17,Health,Vitamins & Supplements,832,15545.15,Rail,2,Late,Traffic Congestion,8.0,N,15.42,236.23
+O1391,S2,Textiles,Home Textiles,506,11905.62,Air,0,On-Time,None,3.0,N,25.4,210.38
+O1392,S19,Electronics,Office & Computing,824,572.95,Road,0,On-Time,None,7.0,N,38.48,378.95
+O1393,S3,Electronics,Audio Devices,21,36602.57,Rail,0,On-Time,None,5.0,N,0.78,30.59
+O1394,S16,Food,Fresh Produce,327,48358.85,Sea,0,On-Time,None,25.0,N,19.0,357.81
+O1395,S24,Food,Fresh Produce,601,11602.53,Road,0,On-Time,None,1.0,N,4.76,39.65
+O1396,S27,Household,Kitchen & Dining,225,33320.84,Air,0,On-Time,None,2.0,N,11.04,98.26
+O1397,S11,Health,First Aid,348,37223.87,Air,0,On-Time,None,3.0,N,19.51,232.78
+O1398,S21,Health,Skincare,785,42497.06,Air,0,On-Time,None,3.0,N,35.29,316.95
+O1399,S18,Household,Kitchen & Dining,670,21420.15,Sea,0,On-Time,None,30.0,N,38.2,589.58
+O1400,S16,Food,Pantry Staples,90,15495.08,Sea,0,On-Time,None,25.0,N,7.5,197.17
+O1401,S16,Food,Snacks & Confectionery,736,16602.11,Sea,0,On-Time,None,21.0,N,30.31,461.38
+O1402,S27,Household,Laundry Products,494,35774.76,Air,1,Late,Weather,4.0,N,27.72,244.78
+O1403,S5,Household,Kitchen & Dining,383,40930.58,Sea,5,Late,Shortage,19.0,N,13.19,239.85
+O1404,S18,Household,DIY & Tools,985,9489.89,Sea,0,On-Time,None,15.0,N,34.37,371.95
+O1405,S22,Household,Cleaning Supplies,719,18861.58,Sea,0,On-Time,None,15.0,N,20.39,345.0
+O1406,S3,Electronics,Audio Devices,209,45146.04,Sea,0,On-Time,None,20.0,N,10.83,269.51
+O1407,S26,Health,Baby Care,546,40431.33,Air,1,Late,Weather,2.0,N,10.54,83.79
+O1408,S28,Textiles,Children's Clothing,475,49250.49,Rail,0,On-Time,None,8.0,N,15.32,206.34
+O1409,S8,Food,Fresh Produce,98,37835.29,Rail,3,Late,Weather,6.0,Y,1.67,37.52
+O1410,S13,Textiles,Men's Clothing,277,19963.16,Rail,0,On-Time,None,8.0,N,8.28,156.36
+O1411,S25,Textiles,Home Textiles,664,29736.57,Rail,0,On-Time,None,8.0,N,22.51,253.32
+O1412,S17,Health,Baby Care,580,33220.21,Rail,0,On-Time,None,5.0,N,12.03,157.06
+O1413,S11,Electronics,Small Appliances,931,4383.56,Air,0,On-Time,None,5.0,N,85.34,663.33
+O1414,S21,Health,Vitamins & Supplements,498,27452.6,Air,2,Late,Shortage,5.0,N,31.77,270.67
+O1415,S21,Health,Vitamins & Supplements,886,35611.38,Air,0,On-Time,None,3.0,N,46.33,343.01
+O1416,S16,Food,Beverages,547,8782.4,Sea,3,Late,Customs Delay,21.0,N,19.63,360.93
+O1417,S1,Household,Kitchen & Dining,56,39141.27,Sea,0,On-Time,None,12.0,N,2.35,69.33
+O1418,S9,Food,Pantry Staples,297,29396.75,Road,0,On-Time,None,4.0,N,9.19,127.01
+O1419,S1,Household,Kitchen & Dining,787,47634.98,Sea,0,On-Time,None,23.0,N,42.17,533.46
+O1420,S10,Food,Pantry Staples,25,2599.9,Air,0,On-Time,None,2.0,Y,1.44,33.4
+O1421,S16,Food,Snacks & Confectionery,720,13633.64,Sea,0,On-Time,None,25.0,N,46.81,543.95
+O1422,S28,Textiles,Children's Clothing,410,30276.92,Air,0,On-Time,None,2.0,N,17.21,137.97
+O1423,S17,Textiles,Women's Clothing,928,15179.72,Rail,0,On-Time,None,7.0,N,19.44,221.52
+O1424,S25,Textiles,Footwear,803,35864.0,Sea,0,On-Time,None,31.0,N,53.67,604.05
+O1425,S29,Health,Personal Care,990,38070.76,Sea,0,On-Time,None,21.0,N,48.87,575.65
+O1426,S30,Health,Personal Care,95,5574.54,Road,0,On-Time,None,4.0,N,3.86,66.32
+O1427,S13,Textiles,Footwear,259,25935.8,Rail,0,On-Time,None,7.0,N,7.86,126.84
+O1428,S25,Textiles,Women's Clothing,400,25690.08,Rail,0,On-Time,None,6.0,N,11.31,130.31
+O1429,S18,Household,Laundry Products,791,18779.4,Sea,0,On-Time,None,11.0,N,17.4,230.9
+O1430,S24,Food,Fresh Produce,344,46679.78,Rail,0,On-Time,None,5.0,N,6.91,121.27
+O1431,S20,Household,Outdoor & Seasonal,638,41461.56,Air,0,On-Time,None,4.0,Y,56.15,354.65
+O1432,S18,Household,Outdoor & Seasonal,528,35011.86,Sea,0,On-Time,None,13.0,N,18.63,224.64
+O1433,S14,Electronics,Audio Devices,146,35859.17,Sea,0,On-Time,None,24.0,N,10.7,257.17
+O1434,S9,Food,Pantry Staples,892,23354.95,Road,0,On-Time,None,3.0,N,19.88,153.29
+O1435,S11,Electronics,Consumer Electronics,697,46089.23,Air,0,On-Time,None,4.0,N,43.62,388.69
+O1436,S23,Food,Pantry Staples,849,34882.47,Air,0,On-Time,None,2.0,N,35.38,199.06
+O1437,S10,Food,Fresh Produce,507,36584.56,Air,0,On-Time,None,2.0,N,18.49,151.37
+O1438,S24,Food,Beverages,836,43153.7,Road,0,On-Time,None,1.0,N,4.78,51.61
+O1439,S25,Textiles,Footwear,736,14066.54,Road,0,On-Time,None,3.0,N,13.23,129.95
+O1440,S27,Household,Outdoor & Seasonal,486,40450.01,Air,0,On-Time,None,4.0,N,37.17,324.27
+O1441,S4,Food,Pantry Staples,603,10164.41,Sea,0,On-Time,None,26.0,N,32.42,559.51
+O1442,S2,Textiles,Home Textiles,232,17594.43,Air,0,On-Time,None,3.0,N,14.27,157.08
+O1443,S2,Textiles,Women's Clothing,999,17112.72,Air,0,On-Time,None,2.0,N,30.28,209.22
+O1444,S11,Electronics,Office & Computing,381,48937.01,Air,0,On-Time,None,4.0,N,28.7,323.2
+O1445,S2,Textiles,Children's Clothing,944,42898.59,Air,0,On-Time,None,4.0,N,69.52,370.91
+O1446,S16,Food,Snacks & Confectionery,411,35207.91,Sea,0,On-Time,None,13.0,N,12.7,226.76
+O1447,S3,Electronics,Home Gadgets,452,36489.31,Rail,0,On-Time,None,9.0,N,15.26,278.73
+O1448,S26,Health,Vitamins & Supplements,499,28322.6,Air,1,Late,Weather,2.0,N,10.79,86.01
+O1449,S7,Textiles,Men's Clothing,624,47380.99,Air,0,On-Time,None,2.0,N,27.5,161.38
+O1450,S23,Food,Snacks & Confectionery,282,25064.81,Air,1,Late,Weather,2.0,N,6.67,58.97
+O1451,S28,Textiles,Footwear,535,19335.63,Rail,0,On-Time,None,7.0,N,13.61,189.85
+O1452,S19,Electronics,Audio Devices,168,8570.25,Road,0,On-Time,None,5.0,N,7.7,123.84
+O1453,S21,Health,Personal Care,161,39417.18,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1454,S19,Electronics,Home Gadgets,629,36854.97,Road,0,On-Time,None,6.0,N,22.02,268.15
+O1455,S25,Textiles,Children's Clothing,197,19525.57,Sea,0,On-Time,None,31.0,N,15.56,348.52
+O1456,S22,Household,Laundry Products,822,1747.07,Sea,0,On-Time,None,12.0,N,24.29,278.61
+O1457,S5,Household,Outdoor & Seasonal,107,42030.37,Sea,0,On-Time,None,21.0,N,6.01,187.09
+O1458,S14,Electronics,Small Appliances,140,1065.19,Sea,0,On-Time,None,24.0,N,7.93,262.71
+O1459,S29,Health,Baby Care,814,35333.14,Sea,0,Cancelled,Strike,,N,0.0,0.0
+O1460,S1,Household,Kitchen & Dining,180,48527.73,Sea,0,On-Time,None,22.0,Y,12.47,239.81
+O1461,S9,Food,Snacks & Confectionery,945,22164.24,Road,0,On-Time,None,2.0,N,12.83,108.44
+O1462,S26,Health,Vitamins & Supplements,995,12131.18,Air,0,On-Time,None,1.0,N,15.92,132.73
+O1463,S14,Household,Outdoor & Seasonal,192,35391.11,Sea,0,On-Time,None,21.0,N,11.24,212.93
+O1464,S11,Electronics,Office & Computing,992,40947.84,Air,0,On-Time,None,5.0,N,89.07,577.25
+O1465,S2,Textiles,Women's Clothing,373,27548.3,Air,0,On-Time,None,2.0,N,16.3,139.67
+O1466,S24,Food,Beverages,48,48368.25,Road,0,On-Time,None,1.0,N,0.43,11.71
+O1467,S10,Food,Pantry Staples,536,3057.6,Air,0,On-Time,None,1.0,N,11.96,87.04
+O1468,S4,Food,Frozen Foods,897,25487.38,Sea,0,On-Time,None,22.0,N,39.45,551.53
+O1469,S9,Electronics,Office & Computing,506,36063.47,Road,0,On-Time,None,5.0,N,19.29,190.13
+O1470,S4,Food,Fresh Produce,525,43200.7,Sea,0,On-Time,None,20.0,N,19.86,405.58
+O1471,S13,Textiles,Home Textiles,358,9373.15,Rail,1,Late,Customs Delay,5.0,N,5.63,90.55
+O1472,S16,Food,Fresh Produce,991,40100.17,Sea,0,On-Time,None,27.0,N,53.66,687.08
+O1473,S2,Textiles,Footwear,930,27859.0,Air,0,On-Time,None,4.0,N,67.88,389.88
+O1474,S16,Food,Pantry Staples,406,20129.41,Sea,0,On-Time,None,24.0,N,19.69,433.66
+O1475,S23,Food,Pantry Staples,731,7019.89,Air,0,On-Time,None,1.0,N,15.17,90.86
+O1476,S28,Textiles,Men's Clothing,170,43332.14,Rail,0,On-Time,None,5.0,N,3.49,79.98
+O1477,S28,Textiles,Women's Clothing,25,8285.02,Rail,0,On-Time,None,7.0,N,1.16,37.96
+O1478,S7,Textiles,Home Textiles,502,15834.5,Air,0,On-Time,None,3.0,N,33.22,227.65
+O1479,S12,Textiles,Children's Clothing,435,14857.25,Road,0,On-Time,None,5.0,N,16.13,172.33
+O1480,S28,Textiles,Men's Clothing,117,43634.99,Rail,0,On-Time,None,4.0,N,2.51,51.08
+O1481,S1,Household,Kitchen & Dining,903,33798.8,Sea,0,On-Time,None,25.0,N,51.96,590.71
+O1482,S1,Household,Cleaning Supplies,459,39935.73,Sea,0,On-Time,None,21.0,N,21.73,373.57
+O1483,S21,Health,Personal Care,320,12898.16,Air,0,On-Time,None,1.0,N,7.57,66.72
+O1484,S1,Household,Laundry Products,748,31431.27,Sea,0,On-Time,None,29.0,N,44.27,606.24
+O1485,S5,Household,Outdoor & Seasonal,179,28801.43,Sea,0,On-Time,None,28.0,N,14.2,329.46
+O1486,S17,Textiles,Men's Clothing,555,41725.1,Rail,0,On-Time,None,4.0,N,9.45,112.81
+O1487,S4,Food,Pantry Staples,423,45351.31,Sea,0,On-Time,None,27.0,N,26.32,479.96
+O1488,S2,Textiles,Footwear,260,1101.76,Air,0,On-Time,None,2.0,N,10.4,104.12
+O1489,S30,Textiles,Men's Clothing,768,33863.99,Road,3,Late,Weather,7.0,N,20.08,153.3
+O1490,S25,Textiles,Men's Clothing,790,3065.87,Rail,0,On-Time,None,6.0,N,19.64,174.22
+O1491,S6,Health,Vitamins & Supplements,150,27668.5,Air,0,On-Time,None,2.0,N,8.29,95.33
+O1492,S6,Health,Baby Care,283,14737.82,Air,0,On-Time,None,3.0,N,18.53,204.48
+O1493,S3,Electronics,Audio Devices,425,15685.44,Rail,0,On-Time,None,8.0,N,14.6,229.3
+O1494,S25,Textiles,Women's Clothing,617,17971.45,Sea,0,On-Time,None,17.0,N,27.88,342.8
+O1495,S7,Textiles,Footwear,748,31253.98,Air,0,On-Time,None,2.0,N,23.27,164.9
+O1496,S23,Food,Pantry Staples,900,17035.47,Sea,0,On-Time,None,11.0,N,19.12,269.81
+O1497,S23,Food,Frozen Foods,48,36768.6,Air,0,On-Time,None,2.0,N,2.91,48.24
+O1498,S26,Health,Skincare,823,20524.11,Air,1,Late,Weather,2.0,N,16.98,109.28
+O1499,S18,Household,Laundry Products,38,3883.48,Sea,0,On-Time,None,18.0,N,2.72,81.18
+O1500,S22,Textiles,Children's Clothing,967,39296.11,Sea,7,Late,Customs Delay,37.0,N,59.96,773.4
+O1501,S22,Household,Laundry Products,486,14645.04,Sea,0,On-Time,None,23.0,N,22.16,383.18
+O1502,S28,Textiles,Children's Clothing,327,21921.96,Rail,0,On-Time,None,4.0,N,5.35,89.42
+O1503,S7,Textiles,Footwear,254,34429.47,Road,0,On-Time,None,3.0,N,5.33,71.6
+O1504,S24,Food,Frozen Foods,757,16956.58,Road,0,On-Time,None,1.0,N,4.62,50.71
+O1505,S2,Textiles,Women's Clothing,706,3300.99,Air,0,On-Time,None,2.0,N,29.27,178.61
+O1506,S26,Health,Skincare,281,19009.09,Air,2,Late,Customs Delay,5.0,N,15.02,210.3
+O1507,S4,Food,Snacks & Confectionery,449,47250.2,Air,0,On-Time,None,2.0,N,20.32,140.34
+O1508,S1,Household,Laundry Products,757,32265.85,Sea,0,On-Time,None,16.0,N,26.11,369.66
+O1509,S26,Health,Personal Care,248,33738.22,Air,2,Late,Weather,5.0,N,16.89,196.55
+O1510,S2,Textiles,Home Textiles,386,31797.97,Air,0,On-Time,None,4.0,N,26.41,242.48
+O1511,S18,Household,DIY & Tools,275,10350.11,Sea,0,On-Time,None,15.0,N,9.96,182.92
+O1512,S15,Health,Skincare,935,21207.53,Sea,0,On-Time,None,22.0,N,36.97,583.06
+O1513,S10,Food,Fresh Produce,930,37671.52,Air,0,On-Time,None,2.0,N,39.52,243.59
+O1514,S15,Health,Personal Care,368,5517.96,Road,0,On-Time,None,3.0,N,9.2,102.15
+O1515,S20,Household,Kitchen & Dining,349,14253.71,Air,1,Late,Weather,3.0,N,14.27,131.49
+O1516,S16,Food,Beverages,398,14177.8,Sea,0,On-Time,None,24.0,N,20.77,373.32
+O1517,S25,Textiles,Men's Clothing,586,21884.94,Rail,0,On-Time,None,5.0,N,13.22,124.21
+O1518,S11,Health,Personal Care,999,49028.25,Air,0,On-Time,None,2.0,N,33.25,258.47
+O1519,S19,Electronics,Office & Computing,698,3841.38,Road,0,On-Time,None,4.0,N,16.27,178.41
+O1520,S24,Food,Beverages,12,26175.7,Road,0,On-Time,None,2.0,N,0.31,11.95
+O1521,S10,Food,Fresh Produce,438,9378.55,Air,0,On-Time,None,2.0,N,20.71,166.58
+O1522,S27,Household,DIY & Tools,151,48548.49,Air,0,On-Time,None,4.0,N,11.4,162.01
+O1523,S7,Textiles,Women's Clothing,385,6108.52,Road,0,On-Time,None,4.0,Y,10.16,123.24
+O1524,S15,Health,Vitamins & Supplements,679,20478.25,Road,0,On-Time,None,3.0,N,16.21,125.99
+O1525,S21,Health,Personal Care,333,37025.31,Air,0,On-Time,None,2.0,N,12.1,143.43
+O1526,S18,Household,Outdoor & Seasonal,155,35375.44,Road,0,On-Time,None,6.0,N,6.64,111.49
+O1527,S5,Household,Kitchen & Dining,967,21425.07,Sea,0,On-Time,None,31.0,N,65.94,807.59
+O1528,S12,Textiles,Footwear,302,17652.95,Air,0,On-Time,None,3.0,N,22.02,166.46
+O1529,S12,Textiles,Women's Clothing,674,20181.81,Road,0,On-Time,None,3.0,N,13.58,117.52
+O1530,S14,Household,Cleaning Supplies,441,13581.68,Sea,0,On-Time,None,13.0,N,16.53,222.74
+O1531,S7,Textiles,Footwear,714,10663.98,Road,0,On-Time,None,6.0,N,30.84,227.67
+O1532,S29,Health,Vitamins & Supplements,958,24410.47,Sea,0,On-Time,None,24.0,N,40.87,685.29
+O1533,S6,Health,Skincare,984,13792.42,Air,0,On-Time,None,3.0,N,62.85,348.01
+O1534,S12,Textiles,Men's Clothing,594,14729.35,Air,0,On-Time,None,4.0,N,43.9,334.68
+O1535,S12,Textiles,Home Textiles,408,33009.43,Air,0,On-Time,None,3.0,N,22.73,187.71
+O1536,S28,Textiles,Footwear,826,48442.6,Sea,0,On-Time,None,18.0,N,33.33,407.96
+O1537,S29,Health,Skincare,898,30380.04,Sea,0,On-Time,None,26.0,N,46.56,634.65
+O1538,S23,Food,Pantry Staples,353,4310.48,Sea,5,Late,Customs Delay,21.0,N,11.73,248.74
+O1539,S24,Food,Snacks & Confectionery,973,4241.39,Road,0,On-Time,None,3.0,N,14.99,149.26
+O1540,S29,Health,Vitamins & Supplements,149,47595.45,Sea,0,On-Time,None,16.0,N,6.62,180.41
+O1541,S20,Household,Outdoor & Seasonal,196,15215.89,Air,0,On-Time,None,4.0,N,20.15,186.67
+O1542,S25,Textiles,Home Textiles,814,5057.32,Rail,3,Late,Weather,7.0,N,12.26,140.03
+O1543,S25,Textiles,Men's Clothing,70,30152.71,Rail,0,On-Time,None,7.0,N,3.11,72.0
+O1544,S2,Textiles,Men's Clothing,948,31370.61,Air,0,On-Time,None,2.0,N,31.02,192.32
+O1545,S7,Textiles,Home Textiles,389,32600.99,Sea,0,Cancelled,Strike,,N,0.0,0.0
+O1546,S2,Textiles,Home Textiles,719,13736.4,Air,0,On-Time,None,2.0,N,23.16,163.61
+O1547,S24,Food,Beverages,816,1247.98,Road,0,On-Time,None,3.0,N,13.95,140.85
+O1548,S4,Food,Snacks & Confectionery,449,48268.26,Sea,0,On-Time,None,13.0,N,12.81,241.26
+O1549,S11,Electronics,Consumer Electronics,328,12919.21,Air,0,On-Time,None,3.0,N,23.05,225.66
+O1550,S4,Electronics,Home Gadgets,311,33963.3,Rail,0,On-Time,None,9.0,N,13.75,224.49
+O1551,S1,Household,Laundry Products,353,35478.18,Sea,0,On-Time,None,19.0,N,19.86,273.16
+O1552,S25,Textiles,Home Textiles,20,30695.37,Sea,0,On-Time,None,11.0,N,0.75,36.47
+O1553,S25,Textiles,Footwear,71,15988.92,Sea,0,On-Time,None,14.0,N,3.63,82.53
+O1554,S18,Household,Kitchen & Dining,854,13919.26,Sea,0,On-Time,None,13.0,N,22.54,317.24
+O1555,S23,Food,Beverages,235,30084.58,Air,0,On-Time,None,1.0,N,4.38,56.38
+O1556,S28,Textiles,Footwear,162,43371.73,Rail,0,On-Time,None,4.0,N,3.47,60.46
+O1557,S8,Food,Snacks & Confectionery,720,47363.32,Air,0,On-Time,None,1.0,N,14.15,93.66
+O1558,S26,Health,First Aid,573,5742.34,Air,2,Late,Customs Delay,4.0,N,19.14,177.85
+O1559,S6,Household,Cleaning Supplies,781,8164.02,Air,1,Late,Weather,4.0,Y,41.93,283.71
+O1560,S7,Textiles,Children's Clothing,580,47264.44,Air,0,On-Time,None,3.0,N,30.65,217.44
+O1561,S7,Textiles,Men's Clothing,593,36958.49,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1562,S29,Health,Skincare,669,44208.19,Sea,0,On-Time,None,15.0,N,22.27,362.13
+O1563,S4,Food,Snacks & Confectionery,870,10530.32,Rail,0,On-Time,None,4.0,N,15.08,160.47
+O1564,S6,Health,Skincare,584,29585.5,Air,0,On-Time,None,3.0,N,27.69,280.14
+O1565,S19,Electronics,Home Gadgets,319,35206.41,Road,0,On-Time,None,7.0,N,15.95,228.0
+O1566,S22,Textiles,Home Textiles,894,34165.54,Road,0,On-Time,None,5.0,N,28.82,205.92
+O1567,S25,Textiles,Footwear,252,20703.51,Rail,0,On-Time,None,7.0,N,7.71,136.29
+O1568,S28,Textiles,Home Textiles,502,1262.05,Rail,0,On-Time,None,8.0,N,14.64,184.43
+O1569,S23,Food,Pantry Staples,375,29354.84,Air,0,On-Time,None,1.0,Y,8.41,77.5
+O1570,S11,Health,First Aid,339,13028.53,Air,0,On-Time,None,2.0,N,16.27,141.47
+O1571,S21,Health,Vitamins & Supplements,116,22787.59,Air,0,On-Time,None,1.0,N,3.34,40.15
+O1572,S12,Textiles,Footwear,235,47900.26,Air,0,On-Time,None,2.0,N,11.63,110.59
+O1573,S3,Electronics,Consumer Electronics,834,20252.25,Rail,0,On-Time,None,7.0,N,24.27,252.44
+O1574,S6,Health,First Aid,227,42070.18,Air,2,Late,Weather,5.0,N,15.4,176.85
+O1575,S22,Textiles,Men's Clothing,946,9832.76,Sea,4,Late,Shortage,20.0,N,36.73,377.67
+O1576,S19,Electronics,Audio Devices,762,33786.79,Road,3,Late,Customs Delay,10.0,N,32.69,335.59
+O1577,S11,Health,Personal Care,515,48861.84,Air,0,On-Time,None,2.0,N,19.37,172.26
+O1578,S20,Household,Kitchen & Dining,268,5543.71,Air,0,On-Time,None,2.0,N,10.74,118.08
+O1579,S27,Household,Outdoor & Seasonal,897,911.84,Air,0,On-Time,None,4.0,N,63.86,438.35
+O1580,S3,Electronics,Home Gadgets,783,21962.35,Sea,0,On-Time,None,13.0,N,20.55,301.25
+O1581,S14,Household,DIY & Tools,526,5084.96,Sea,0,On-Time,None,20.0,N,29.22,399.02
+O1582,S14,Household,Outdoor & Seasonal,782,37545.03,Sea,7,Late,Weather,33.0,N,41.55,542.63
+O1583,S29,Health,Vitamins & Supplements,63,45770.16,Sea,0,On-Time,None,15.0,N,2.56,99.19
+O1584,S29,Health,Vitamins & Supplements,56,21984.04,Sea,0,On-Time,None,11.0,N,2.04,69.01
+O1585,S7,Textiles,Men's Clothing,736,13306.23,Sea,5,Late,Weather,17.0,N,16.2,224.55
+O1586,S19,Electronics,Small Appliances,698,22002.96,Road,2,Late,Weather,7.0,N,19.86,224.74
+O1587,S9,Food,Pantry Staples,530,36310.67,Road,0,On-Time,None,1.0,N,3.31,42.44
+O1588,S8,Food,Frozen Foods,108,948.18,Air,0,On-Time,None,2.0,N,5.27,73.56
+O1589,S15,Health,Skincare,29,29677.97,Road,0,On-Time,None,4.0,N,1.23,34.99
+O1590,S10,Food,Beverages,899,30857.94,Air,0,On-Time,None,1.0,N,18.15,101.53
+O1591,S24,Food,Pantry Staples,762,32065.57,Rail,0,On-Time,None,4.0,N,12.34,145.23
+O1592,S16,Food,Frozen Foods,582,12480.09,Sea,6,Late,Traffic Congestion,22.0,N,20.87,347.23
+O1593,S13,Food,Pantry Staples,900,35845.61,Rail,3,Late,Traffic Congestion,7.0,N,12.11,143.85
+O1594,S19,Electronics,Audio Devices,499,5023.88,Road,0,On-Time,None,5.0,N,16.39,185.82
+O1595,S26,Health,Personal Care,428,10363.88,Road,0,On-Time,None,2.0,N,6.89,68.79
+O1596,S4,Electronics,Office & Computing,699,43934.77,Road,0,On-Time,None,6.0,N,23.2,265.99
+O1597,S7,Textiles,Men's Clothing,859,37066.8,Air,0,On-Time,None,2.0,N,25.1,179.44
+O1598,S26,Health,Personal Care,71,1180.4,Air,0,On-Time,None,3.0,N,6.28,95.99
+O1599,S5,Household,Cleaning Supplies,154,12794.62,Sea,0,On-Time,None,11.0,Y,4.73,103.31
+O1600,S13,Textiles,Children's Clothing,225,11113.12,Rail,0,On-Time,None,4.0,N,3.4,68.62
+O1601,S29,Health,Vitamins & Supplements,12,13904.91,Sea,5,Late,Shortage,23.0,N,0.8,52.17
+O1602,S28,Textiles,Men's Clothing,169,12754.21,Rail,0,On-Time,None,8.0,N,7.35,129.01
+O1603,S26,Health,Baby Care,748,3595.05,Air,0,On-Time,None,1.0,N,15.85,113.84
+O1604,S24,Food,Beverages,790,23217.56,Rail,3,Late,Shortage,9.0,N,18.89,215.33
+O1605,S12,Textiles,Footwear,129,36770.31,Air,0,On-Time,None,4.0,N,12.36,146.66
+O1606,S7,Textiles,Women's Clothing,902,30533.22,Road,0,On-Time,None,3.0,N,17.69,133.7
+O1607,S7,Textiles,Home Textiles,98,33807.15,Road,0,On-Time,None,5.0,N,5.28,73.91
+O1608,S3,Electronics,Home Gadgets,338,4516.88,Rail,0,On-Time,None,5.0,N,8.37,132.63
+O1609,S18,Household,Cleaning Supplies,589,47598.79,Sea,0,On-Time,None,27.0,N,32.48,519.15
+O1610,S28,Textiles,Women's Clothing,919,42005.35,Air,0,On-Time,None,4.0,N,74.27,431.96
+O1611,S23,Food,Beverages,366,40351.97,Air,0,On-Time,None,2.0,N,13.27,153.1
+O1612,S28,Textiles,Children's Clothing,619,41237.7,Rail,0,On-Time,None,5.0,N,10.45,137.16
+O1613,S23,Food,Snacks & Confectionery,276,46669.17,Air,0,On-Time,None,1.0,N,6.36,61.79
+O1614,S10,Food,Fresh Produce,626,27440.57,Air,0,On-Time,None,1.0,N,11.46,84.5
+O1615,S24,Food,Beverages,961,10413.96,Rail,0,On-Time,None,5.0,N,20.11,183.6
+O1616,S5,Household,Outdoor & Seasonal,332,31030.79,Sea,0,On-Time,None,30.0,N,20.9,429.73
+O1617,S4,Electronics,Home Gadgets,644,37272.63,Rail,0,On-Time,None,6.0,N,14.71,197.78
+O1618,S4,Electronics,Consumer Electronics,997,37026.91,Rail,0,On-Time,None,6.0,N,24.79,281.13
+O1619,S9,Food,Frozen Foods,550,26311.73,Road,1,Late,Shortage,5.0,N,17.85,146.83
+O1620,S5,Household,DIY & Tools,658,3888.71,Sea,6,Late,Customs Delay,30.0,N,30.88,488.14
+O1621,S10,Food,Snacks & Confectionery,204,18870.09,Air,0,On-Time,None,1.0,N,4.35,53.6
+O1622,S9,Electronics,Office & Computing,930,46077.95,Road,0,On-Time,None,7.0,N,44.03,407.86
+O1623,S1,Household,Outdoor & Seasonal,747,29430.22,Sea,0,On-Time,None,25.0,N,35.88,533.84
+O1624,S16,Food,Frozen Foods,341,27147.43,Sea,0,On-Time,None,12.0,N,12.15,199.88
+O1625,S18,Household,Laundry Products,179,13808.25,Sea,4,Late,Weather,27.0,N,13.23,249.54
+O1626,S23,Food,Snacks & Confectionery,530,18738.22,Air,0,On-Time,None,2.0,N,17.93,167.16
+O1627,S11,Electronics,Small Appliances,472,44819.63,Air,0,On-Time,None,5.0,N,39.76,399.38
+O1628,S6,Household,DIY & Tools,49,33489.92,Air,0,On-Time,None,3.0,Y,3.42,72.98
+O1629,S25,Textiles,Men's Clothing,546,39475.66,Rail,0,On-Time,None,7.0,N,17.28,198.43
+O1630,S29,Health,Baby Care,270,22990.1,Sea,0,On-Time,None,23.0,N,14.12,340.2
+O1631,S9,Electronics,Small Appliances,404,31697.24,Sea,0,On-Time,None,13.0,N,12.38,256.36
+O1632,S21,Health,Personal Care,964,12794.99,Air,0,On-Time,None,2.0,N,33.69,238.79
+O1633,S9,Food,Pantry Staples,235,35420.31,Road,0,On-Time,None,4.0,N,7.76,95.15
+O1634,S16,Food,Snacks & Confectionery,993,21666.27,Sea,6,Late,Customs Delay,16.0,N,17.54,238.95
+O1635,S10,Food,Frozen Foods,133,22406.0,Air,0,On-Time,None,2.0,N,5.69,81.43
+O1636,S16,Food,Fresh Produce,984,32641.46,Sea,4,Late,Weather,23.0,N,46.78,520.47
+O1637,S16,Food,Fresh Produce,47,46845.89,Sea,0,On-Time,None,17.0,N,3.13,103.58
+O1638,S11,Electronics,Consumer Electronics,337,3668.31,Air,2,Late,Shortage,5.0,N,23.49,212.61
+O1639,S7,Textiles,Men's Clothing,260,41324.79,Air,0,On-Time,None,4.0,N,18.24,214.27
+O1640,S18,Household,Cleaning Supplies,910,14972.96,Sea,3,Late,Customs Delay,30.0,N,49.38,641.31
+O1641,S13,Textiles,Women's Clothing,185,22474.01,Rail,0,On-Time,None,5.0,N,4.44,76.14
+O1642,S28,Textiles,Home Textiles,611,1584.71,Air,0,On-Time,None,2.0,Y,21.24,155.55
+O1643,S23,Food,Snacks & Confectionery,923,15401.78,Air,0,On-Time,None,1.0,Y,19.29,103.53
+O1644,S23,Food,Snacks & Confectionery,463,25380.25,Sea,0,On-Time,None,26.0,N,30.31,441.43
+O1645,S11,Electronics,Home Gadgets,46,3280.72,Rail,0,On-Time,None,5.0,N,1.07,42.64
+O1646,S28,Textiles,Children's Clothing,325,24809.24,Rail,0,On-Time,None,5.0,N,7.94,96.55
+O1647,S29,Health,Skincare,697,46391.98,Sea,0,On-Time,None,17.0,Y,31.5,356.19
+O1648,S17,Textiles,Footwear,982,5716.96,Rail,0,On-Time,None,4.0,N,11.61,146.53
+O1649,S8,Food,Frozen Foods,805,38339.82,Rail,0,On-Time,None,6.0,N,17.93,206.62
+O1650,S20,Household,Cleaning Supplies,974,20778.72,Air,0,On-Time,None,2.0,N,31.97,239.14
+O1651,S28,Textiles,Footwear,982,32931.1,Rail,0,On-Time,None,8.0,N,26.75,268.29
+O1652,S1,Household,Laundry Products,602,13381.71,Sea,0,On-Time,None,21.0,N,25.32,399.49
+O1653,S26,Health,First Aid,123,8394.87,Air,0,On-Time,None,1.0,N,3.08,41.48
+O1654,S7,Textiles,Home Textiles,49,8442.9,Road,0,On-Time,None,3.0,N,1.75,28.78
+O1655,S11,Health,Personal Care,310,3989.35,Air,0,On-Time,None,3.0,N,19.69,217.15
+O1656,S28,Textiles,Men's Clothing,233,9689.51,Air,0,On-Time,None,4.0,N,17.14,184.01
+O1657,S20,Household,Outdoor & Seasonal,327,33378.86,Air,0,On-Time,None,2.0,N,14.38,137.73
+O1658,S12,Textiles,Home Textiles,358,44143.69,Air,0,On-Time,None,4.0,N,27.74,271.38
+O1659,S15,Health,Vitamins & Supplements,124,40799.22,Road,0,On-Time,None,3.0,N,3.71,59.21
+O1660,S12,Textiles,Men's Clothing,707,34414.15,Air,0,On-Time,None,3.0,N,38.6,267.54
+O1661,S18,Household,DIY & Tools,332,5966.38,Sea,0,On-Time,None,25.0,N,18.29,375.63
+O1662,S21,Health,Skincare,577,14814.78,Air,0,On-Time,None,3.0,N,29.23,271.17
+O1663,S12,Textiles,Women's Clothing,49,15835.44,Air,0,On-Time,None,2.0,N,3.03,47.92
+O1664,S26,Health,Baby Care,875,12872.87,Air,0,On-Time,None,3.0,N,43.06,310.55
+O1665,S25,Textiles,Children's Clothing,49,25992.78,Sea,0,On-Time,None,27.0,N,4.9,130.83
+O1666,S6,Health,Skincare,868,27009.91,Sea,5,Late,Weather,20.0,N,24.98,385.57
+O1667,S2,Textiles,Men's Clothing,982,18165.86,Air,0,On-Time,None,4.0,N,64.89,420.92
+O1668,S13,Food,Frozen Foods,758,18012.56,Rail,0,On-Time,None,6.0,N,16.59,224.28
+O1669,S27,Household,DIY & Tools,298,41513.5,Air,0,On-Time,None,2.0,N,14.93,111.28
+O1670,S16,Food,Frozen Foods,271,39570.0,Sea,0,On-Time,None,9.0,N,7.41,132.48
+O1671,S23,Food,Beverages,225,15735.89,Air,0,On-Time,None,2.0,N,8.81,103.86
+O1672,S1,Household,Outdoor & Seasonal,156,45732.53,Sea,0,On-Time,None,20.0,N,8.28,195.61
+O1673,S17,Textiles,Home Textiles,345,47664.34,Rail,0,On-Time,None,8.0,N,9.88,163.18
+O1674,S16,Food,Frozen Foods,177,16673.76,Sea,0,On-Time,None,29.0,N,14.23,317.62
+O1675,S18,Household,DIY & Tools,101,18044.03,Sea,6,Late,Shortage,27.0,N,6.27,157.04
+O1676,S15,Health,First Aid,362,25528.89,Road,0,On-Time,None,2.0,N,6.25,67.02
+O1677,S4,Food,Frozen Foods,580,47085.48,Rail,0,On-Time,None,6.0,N,15.7,193.05
+O1678,S4,Food,Pantry Staples,580,43877.81,Sea,0,On-Time,None,9.0,N,11.5,179.94
+O1679,S8,Food,Snacks & Confectionery,825,5577.11,Rail,0,On-Time,None,5.0,N,15.01,180.61
+O1680,S14,Electronics,Home Gadgets,690,19940.17,Air,0,On-Time,None,5.0,N,74.96,565.52
+O1681,S17,Textiles,Children's Clothing,790,27891.87,Rail,0,On-Time,None,4.0,N,13.04,133.45
+O1682,S12,Textiles,Footwear,372,25405.06,Road,0,On-Time,None,6.0,N,13.25,175.56
+O1683,S7,Textiles,Footwear,566,10096.22,Road,0,On-Time,None,5.0,N,18.27,172.05
+O1684,S26,Health,Skincare,354,43011.43,Air,0,On-Time,None,1.0,N,7.11,78.01
+O1685,S20,Household,Laundry Products,702,34008.57,Air,0,On-Time,None,3.0,N,35.14,282.49
+O1686,S26,Health,Vitamins & Supplements,179,41976.46,Air,0,On-Time,None,1.0,N,3.62,48.64
+O1687,S21,Health,Baby Care,365,43008.83,Air,0,On-Time,None,1.0,N,6.14,70.16
+O1688,S3,Electronics,Audio Devices,200,37543.61,Rail,0,On-Time,None,8.0,N,7.64,165.59
+O1689,S6,Health,Vitamins & Supplements,676,22240.92,Air,0,On-Time,None,3.0,N,34.53,272.92
+O1690,S23,Food,Pantry Staples,431,30722.06,Air,0,On-Time,None,2.0,N,14.24,167.61
+O1691,S11,Electronics,Small Appliances,709,8438.09,Air,0,On-Time,None,3.0,N,35.46,297.75
+O1692,S11,Health,Vitamins & Supplements,16,33845.45,Air,0,On-Time,None,2.0,N,1.18,32.62
+O1693,S12,Textiles,Footwear,142,9373.04,Air,0,On-Time,None,2.0,N,7.7,77.58
+O1694,S10,Food,Pantry Staples,756,34850.5,Air,1,Late,Weather,2.0,N,13.89,100.89
+O1695,S24,Food,Frozen Foods,566,11865.11,Rail,0,On-Time,None,5.0,N,10.57,161.29
+O1696,S1,Household,Kitchen & Dining,835,6318.79,Sea,0,On-Time,None,19.0,N,41.33,431.57
+O1697,S1,Household,Cleaning Supplies,770,8681.58,Sea,0,On-Time,None,13.0,N,19.51,290.75
+O1698,S7,Textiles,Men's Clothing,40,598.61,Air,0,On-Time,None,4.0,N,4.08,76.53
+O1699,S5,Household,DIY & Tools,544,36077.61,Sea,4,Late,Weather,30.0,N,30.24,436.85
+O1700,S23,Food,Snacks & Confectionery,435,36753.85,Sea,0,On-Time,None,26.0,Y,23.71,432.26
+O1701,S9,Electronics,Audio Devices,403,25989.2,Road,0,On-Time,None,7.0,N,19.65,267.9
+O1702,S4,Electronics,Audio Devices,681,8487.46,Rail,0,On-Time,None,7.0,N,20.86,232.99
+O1703,S22,Household,DIY & Tools,372,4635.94,Sea,3,Late,Weather,25.0,N,21.14,313.23
+O1704,S25,Textiles,Footwear,446,1446.88,Sea,0,On-Time,None,19.0,N,19.65,299.52
+O1705,S27,Household,Outdoor & Seasonal,679,8704.53,Air,0,On-Time,None,4.0,N,59.94,375.59
+O1706,S24,Food,Frozen Foods,560,44597.35,Road,0,On-Time,None,1.0,N,3.2,41.44
+O1707,S4,Electronics,Small Appliances,936,12456.07,Air,0,On-Time,None,3.0,N,44.48,345.67
+O1708,S10,Food,Fresh Produce,91,18036.43,Air,0,On-Time,None,1.0,N,2.37,32.11
+O1709,S5,Household,DIY & Tools,365,5714.6,Road,0,On-Time,None,3.0,N,8.51,99.78
+O1710,S4,Food,Pantry Staples,267,11506.88,Rail,0,On-Time,None,6.0,N,5.65,117.62
+O1711,S25,Textiles,Men's Clothing,727,26201.62,Rail,0,On-Time,None,7.0,N,18.21,230.37
+O1712,S3,Electronics,Home Gadgets,598,30583.76,Rail,0,On-Time,None,6.0,N,14.57,217.2
+O1713,S8,Food,Frozen Foods,998,12644.94,Air,0,On-Time,None,1.0,N,19.11,122.43
+O1714,S11,Electronics,Consumer Electronics,533,3357.74,Air,2,Late,Customs Delay,5.0,N,32.9,260.31
+O1715,S2,Textiles,Children's Clothing,304,19856.13,Air,0,On-Time,None,3.0,N,17.96,185.11
+O1716,S2,Textiles,Men's Clothing,971,12093.07,Air,0,On-Time,None,4.0,N,57.96,436.76
+O1717,S23,Food,Frozen Foods,233,11367.92,Air,0,On-Time,None,1.0,N,4.99,57.18
+O1718,S9,Electronics,Office & Computing,534,48013.21,Road,0,On-Time,None,7.0,N,22.33,287.95
+O1719,S17,Textiles,Women's Clothing,55,31006.87,Rail,0,On-Time,None,4.0,N,1.42,32.21
+O1720,S1,Household,DIY & Tools,676,28065.48,Sea,0,On-Time,None,14.0,N,21.15,269.18
+O1721,S22,Textiles,Men's Clothing,122,21080.87,Sea,0,On-Time,None,23.0,N,7.59,193.45
+O1722,S27,Household,Cleaning Supplies,242,21732.74,Air,0,On-Time,None,4.0,N,23.51,221.5
+O1723,S9,Electronics,Home Gadgets,26,27274.8,Road,0,On-Time,None,4.0,N,1.15,36.47
+O1724,S5,Household,Outdoor & Seasonal,369,34973.28,Sea,7,Late,Customs Delay,30.0,N,19.39,351.71
+O1725,S29,Health,Personal Care,232,35256.23,Rail,0,On-Time,None,4.0,N,4.61,78.23
+O1726,S5,Household,Outdoor & Seasonal,875,8998.85,Sea,3,Late,Traffic Congestion,22.0,N,41.41,462.3
+O1727,S2,Textiles,Men's Clothing,709,25255.58,Air,0,On-Time,None,4.0,Y,56.64,382.56
+O1728,S19,Electronics,Small Appliances,457,20891.93,Road,0,On-Time,None,7.0,N,18.81,256.84
+O1729,S30,Health,First Aid,865,43591.08,Road,0,On-Time,None,3.0,N,17.39,151.61
+O1730,S1,Household,Cleaning Supplies,374,31755.24,Sea,0,On-Time,None,13.0,N,13.26,186.68
+O1731,S3,Electronics,Office & Computing,684,26858.95,Rail,0,On-Time,None,8.0,N,17.57,295.95
+O1732,S28,Textiles,Women's Clothing,335,6212.03,Rail,2,Late,Customs Delay,9.0,Y,8.74,152.74
+O1733,S13,Textiles,Men's Clothing,476,30479.08,Rail,0,On-Time,None,7.0,N,15.24,189.14
+O1734,S3,Electronics,Home Gadgets,423,6301.59,Rail,0,On-Time,None,9.0,N,12.42,244.14
+O1735,S22,Household,DIY & Tools,464,17191.73,Sea,0,On-Time,None,18.0,N,21.97,338.12
+O1736,S26,Health,Personal Care,595,7570.68,Air,1,Late,Shortage,3.0,N,22.58,171.42
+O1737,S25,Textiles,Women's Clothing,242,34757.65,Road,0,On-Time,None,4.0,N,7.49,96.53
+O1738,S11,Electronics,Home Gadgets,233,10709.48,Air,0,On-Time,None,3.0,N,12.39,167.99
+O1739,S28,Textiles,Women's Clothing,840,19897.04,Air,0,On-Time,None,2.0,N,34.5,207.91
+O1740,S14,Household,Kitchen & Dining,421,44835.9,Sea,0,On-Time,None,21.0,N,20.23,346.76
+O1741,S4,Food,Snacks & Confectionery,581,10613.66,Sea,0,On-Time,None,11.0,N,15.0,230.26
+O1742,S11,Electronics,Small Appliances,344,25636.35,Air,0,On-Time,None,3.0,N,23.01,238.81
+O1743,S6,Health,Vitamins & Supplements,231,21253.95,Air,0,On-Time,None,1.0,N,5.52,54.42
+O1744,S16,Food,Fresh Produce,46,1397.14,Sea,0,On-Time,None,25.0,N,4.59,129.29
+O1745,S26,Health,Vitamins & Supplements,998,39741.53,Air,0,On-Time,None,2.0,N,35.87,261.68
+O1746,S17,Textiles,Children's Clothing,287,3917.77,Air,0,On-Time,None,3.0,N,17.68,162.73
+O1747,S5,Household,DIY & Tools,205,23975.62,Sea,5,Late,Weather,25.0,N,13.08,212.09
+O1748,S16,Food,Snacks & Confectionery,925,28253.58,Sea,0,On-Time,None,29.0,N,61.06,736.21
+O1749,S25,Textiles,Children's Clothing,873,31607.11,Rail,0,On-Time,None,7.0,N,20.34,240.42
+O1750,S15,Health,Personal Care,493,34587.27,Road,0,On-Time,None,4.0,N,11.91,141.65
+O1751,S16,Food,Beverages,251,13036.98,Sea,0,On-Time,None,29.0,N,21.68,368.56
+O1752,S17,Textiles,Home Textiles,333,993.95,Rail,0,On-Time,None,5.0,N,6.58,94.3
+O1753,S14,Electronics,Consumer Electronics,740,36310.46,Sea,0,On-Time,None,25.0,N,43.85,615.7
+O1754,S6,Household,Cleaning Supplies,201,27015.0,Air,0,On-Time,None,2.0,N,8.97,107.08
+O1755,S4,Electronics,Office & Computing,26,41887.83,Sea,0,On-Time,None,16.0,N,1.35,82.3
+O1756,S4,Electronics,Home Gadgets,533,41158.72,Rail,1,Late,Shortage,7.0,N,12.98,196.4
+O1757,S17,Health,Skincare,927,42244.65,Rail,0,On-Time,None,3.0,N,8.23,112.41
+O1758,S5,Household,DIY & Tools,410,24512.19,Sea,0,On-Time,None,14.0,N,13.48,245.19
+O1759,S14,Household,Kitchen & Dining,915,17014.61,Sea,3,Late,Shortage,27.0,N,48.26,582.67
+O1760,S7,Textiles,Home Textiles,895,39682.13,Rail,0,On-Time,None,5.0,N,15.73,158.72
+O1761,S10,Food,Fresh Produce,714,22839.06,Air,0,On-Time,None,2.0,Y,29.3,212.96
+O1762,S10,Food,Fresh Produce,31,9580.39,Air,1,Late,Weather,2.0,N,1.05,21.52
+O1763,S17,Health,First Aid,483,42821.21,Rail,0,On-Time,None,5.0,N,10.59,151.77
+O1764,S27,Household,Cleaning Supplies,129,44186.71,Air,1,Late,Weather,5.0,N,10.15,165.66
+O1765,S9,Electronics,Consumer Electronics,219,23582.33,Road,0,On-Time,None,5.0,N,7.71,127.99
+O1766,S19,Electronics,Audio Devices,315,4247.14,Road,0,On-Time,None,4.0,Y,9.71,123.08
+O1767,S24,Food,Beverages,279,19697.39,Road,0,Cancelled,Strike,,N,0.0,0.0
+O1768,S22,Textiles,Home Textiles,713,40275.11,Sea,0,On-Time,None,30.0,N,54.33,574.68
+O1769,S19,Electronics,Consumer Electronics,696,45137.81,Road,0,On-Time,None,7.0,N,37.36,335.63
+O1770,S9,Electronics,Consumer Electronics,294,10571.9,Road,0,On-Time,None,4.0,Y,8.31,133.32
+O1771,S8,Food,Frozen Foods,725,3815.19,Air,0,On-Time,None,2.0,N,26.23,209.14
+O1772,S29,Health,Vitamins & Supplements,685,43928.85,Sea,0,On-Time,None,13.0,N,19.83,296.61
+O1773,S17,Textiles,Children's Clothing,772,19775.54,Rail,0,On-Time,None,5.0,N,12.29,167.63
+O1774,S29,Health,Vitamins & Supplements,236,27317.17,Sea,0,On-Time,None,15.0,N,7.6,216.52
+O1775,S4,Food,Frozen Foods,957,48419.26,Sea,0,On-Time,None,9.0,Y,21.76,241.11
+O1776,S4,Electronics,Consumer Electronics,390,3794.95,Sea,3,Late,Shortage,34.0,N,26.57,532.63
+O1777,S10,Food,Frozen Foods,469,32591.74,Air,0,On-Time,None,2.0,N,16.7,151.98
+O1778,S2,Textiles,Home Textiles,16,4168.22,Air,0,On-Time,None,4.0,N,1.76,51.23
+O1779,S29,Health,Vitamins & Supplements,38,19085.71,Sea,0,On-Time,None,26.0,N,4.02,130.23
+O1780,S20,Household,Kitchen & Dining,916,40288.82,Air,0,On-Time,None,3.0,N,50.97,303.37
+O1781,S28,Textiles,Men's Clothing,42,21956.88,Air,0,On-Time,None,4.0,N,5.12,81.19
+O1782,S25,Textiles,Children's Clothing,655,49860.53,Rail,3,Late,Customs Delay,11.0,N,23.07,231.32
+O1783,S27,Household,Kitchen & Dining,888,28173.43,Air,0,On-Time,None,3.0,N,45.14,338.45
+O1784,S26,Health,Skincare,88,16397.53,Air,2,Cancelled,Strike,,N,0.0,0.0
+O1785,S11,Health,First Aid,937,11395.51,Air,0,On-Time,None,3.0,N,41.07,369.13
+O1786,S25,Textiles,Men's Clothing,956,17850.77,Sea,0,On-Time,None,19.0,N,34.05,463.2
+O1787,S12,Textiles,Women's Clothing,468,18940.4,Road,0,On-Time,None,4.0,N,15.17,120.9
+O1788,S29,Health,Vitamins & Supplements,579,3901.33,Sea,0,On-Time,None,14.0,N,20.73,321.5
+O1789,S24,Food,Beverages,992,18793.92,Rail,0,On-Time,None,6.0,N,19.88,241.37
+O1790,S17,Health,Personal Care,547,23479.81,Rail,1,Late,Shortage,4.0,N,6.06,90.09
+O1791,S19,Electronics,Office & Computing,491,36275.52,Road,0,On-Time,None,4.0,N,14.14,171.45
+O1792,S26,Health,Vitamins & Supplements,439,33008.11,Air,0,On-Time,None,3.0,Y,21.15,230.26
+O1793,S7,Textiles,Women's Clothing,747,35583.9,Road,0,On-Time,None,4.0,N,17.87,172.61
+O1794,S26,Health,Skincare,294,914.0,Air,0,On-Time,None,3.0,N,16.61,179.81
+O1795,S20,Household,Laundry Products,525,11274.54,Air,0,On-Time,None,2.0,N,18.47,171.28
+O1796,S22,Textiles,Women's Clothing,986,33253.37,Sea,0,On-Time,None,22.0,N,51.94,519.58
+O1797,S3,Electronics,Audio Devices,108,24457.47,Rail,2,Late,Shortage,9.0,N,3.42,103.13
+O1798,S22,Household,Cleaning Supplies,406,763.02,Sea,3,Cancelled,Strike,,N,0.0,0.0
+O1799,S21,Health,First Aid,498,40322.48,Air,0,On-Time,None,1.0,N,9.83,88.96
+O1800,S9,Food,Pantry Staples,48,38754.07,Road,0,On-Time,None,3.0,N,1.66,36.82
+O1801,S16,Food,Frozen Foods,280,27646.75,Sea,0,On-Time,None,12.0,N,7.76,167.77
+O1802,S15,Health,Personal Care,896,3789.93,Road,0,On-Time,None,4.0,N,19.35,215.69
+O1803,S2,Textiles,Men's Clothing,806,38442.49,Air,0,On-Time,None,4.0,N,55.68,374.29
+O1804,S25,Textiles,Children's Clothing,166,29393.82,Sea,0,On-Time,None,19.0,N,9.66,200.71
+O1805,S24,Food,Snacks & Confectionery,84,39207.02,Road,3,Late,Shortage,7.0,N,3.17,61.56
+O1806,S11,Electronics,Office & Computing,893,37711.48,Air,0,On-Time,None,5.0,N,90.78,642.51
+O1807,S28,Textiles,Men's Clothing,809,40248.6,Air,0,On-Time,None,2.0,N,35.08,200.55
+O1808,S18,Household,Outdoor & Seasonal,139,26141.4,Road,0,On-Time,None,5.0,N,6.67,92.63
+O1809,S16,Food,Snacks & Confectionery,696,7446.06,Sea,0,On-Time,None,16.0,N,26.07,335.43
+O1810,S26,Health,Vitamins & Supplements,983,33722.29,Rail,0,On-Time,None,7.0,N,24.41,284.26
+O1811,S16,Food,Fresh Produce,93,31213.45,Sea,0,On-Time,None,12.0,N,2.77,103.55
+O1812,S4,Electronics,Audio Devices,31,37241.53,Rail,0,Cancelled,Strike,,N,0.0,0.0
+O1813,S29,Health,Skincare,468,8909.11,Sea,0,On-Time,None,18.0,N,19.16,344.35
+O1814,S3,Electronics,Home Gadgets,548,10151.27,Rail,0,On-Time,None,9.0,Y,16.49,308.54
+O1815,S19,Electronics,Home Gadgets,716,44575.27,Road,2,Late,Customs Delay,7.0,N,25.64,238.96
+O1816,S4,Electronics,Audio Devices,858,37623.9,Sea,5,Late,Weather,18.0,N,22.2,360.29
+O1817,S2,Textiles,Footwear,391,45457.31,Air,0,On-Time,None,2.0,N,16.52,124.81
+O1818,S10,Food,Frozen Foods,757,38056.41,Air,0,Cancelled,Strike,,N,0.0,0.0
+O1819,S23,Food,Frozen Foods,449,30059.19,Air,0,On-Time,None,2.0,N,17.57,164.91
+O1820,S1,Household,Kitchen & Dining,613,32879.57,Sea,7,Late,Shortage,29.0,N,35.05,400.81
+O1821,S8,Food,Pantry Staples,998,44511.83,Rail,0,On-Time,None,3.0,N,9.63,113.95
+O1822,S26,Health,Personal Care,30,29150.93,Air,0,On-Time,None,2.0,N,1.76,45.17
+O1823,S24,Food,Frozen Foods,312,31803.37,Rail,0,On-Time,None,2.0,N,2.68,43.15
+O1824,S24,Food,Snacks & Confectionery,985,8245.6,Rail,0,On-Time,None,6.0,N,22.39,259.72
+O1825,S12,Textiles,Home Textiles,878,23959.1,Road,0,On-Time,None,6.0,N,38.2,296.16
+O1826,S19,Electronics,Home Gadgets,964,35961.66,Road,0,On-Time,None,7.0,N,41.51,381.37
+O1827,S13,Textiles,Footwear,93,13911.66,Rail,0,On-Time,None,7.0,N,3.49,69.89
+O1828,S23,Food,Frozen Foods,783,10511.58,Air,1,Late,Customs Delay,2.0,N,12.4,107.05
+O1829,S12,Textiles,Footwear,668,16034.43,Air,0,On-Time,None,4.0,N,59.08,340.38
+O1830,S23,Food,Pantry Staples,962,12454.28,Air,2,Late,Weather,4.0,N,32.73,209.77
+O1831,S18,Household,Kitchen & Dining,462,11138.18,Air,0,On-Time,None,3.0,N,30.14,235.06
+O1832,S6,Health,Personal Care,396,21530.12,Air,0,On-Time,None,1.0,N,6.52,69.43
+O1833,S30,Textiles,Home Textiles,516,45438.01,Road,0,On-Time,None,3.0,N,9.63,111.25
+O1834,S7,Textiles,Footwear,266,25599.45,Sea,0,On-Time,None,22.0,N,15.12,252.99
+O1835,S5,Household,Laundry Products,579,9802.06,Sea,0,On-Time,None,17.0,N,26.19,302.86
+O1836,S27,Household,Kitchen & Dining,901,4310.1,Air,0,On-Time,None,3.0,N,49.24,294.73
+O1837,S19,Electronics,Small Appliances,943,34959.73,Road,0,On-Time,None,4.0,N,28.48,246.82
+O1838,S11,Health,Vitamins & Supplements,536,19448.54,Air,0,On-Time,None,2.0,N,20.75,185.16
+O1839,S3,Electronics,Audio Devices,171,41180.63,Rail,0,On-Time,None,5.0,N,3.94,95.67
+O1840,S12,Textiles,Footwear,966,33145.78,Road,3,Late,Traffic Congestion,7.0,N,21.03,185.1
+O1841,S14,Electronics,Office & Computing,172,39913.95,Sea,0,On-Time,None,24.0,N,12.83,280.1
+O1842,S24,Food,Frozen Foods,841,13961.33,Rail,0,On-Time,None,4.0,N,11.01,138.4
+O1843,S30,Health,Personal Care,802,34771.77,Road,0,On-Time,None,4.0,N,24.56,198.6
+O1844,S13,Food,Pantry Staples,801,13571.07,Rail,1,Late,Customs Delay,7.0,N,20.53,216.18
+O1845,S24,Food,Frozen Foods,533,46983.89,Road,0,On-Time,None,1.0,N,4.4,39.81
+O1846,S26,Health,First Aid,795,32000.53,Air,0,On-Time,None,3.0,N,44.15,309.84
+O1847,S14,Household,Laundry Products,280,16563.33,Sea,0,On-Time,None,21.0,N,16.22,306.34
+O1848,S20,Household,DIY & Tools,501,13840.84,Air,2,Late,Weather,6.0,N,43.83,292.67
+O1849,S8,Food,Pantry Staples,217,9950.87,Air,0,On-Time,None,1.0,N,4.13,59.18
+O1850,S4,Electronics,Audio Devices,548,34884.73,Air,0,On-Time,None,3.0,N,33.21,255.24
+O1851,S11,Health,Personal Care,593,11326.42,Air,0,On-Time,None,3.0,N,27.78,280.2
+O1852,S20,Household,Kitchen & Dining,69,29967.51,Air,0,On-Time,None,3.0,N,5.48,84.31
+O1853,S17,Textiles,Children's Clothing,439,13599.43,Sea,0,On-Time,None,25.0,N,22.79,394.04
+O1854,S4,Electronics,Consumer Electronics,994,33267.46,Rail,0,Cancelled,Supplier Bankruptcy,,N,0.0,0.0
+O1855,S30,Textiles,Women's Clothing,666,40839.52,Road,0,On-Time,None,4.0,N,17.11,154.89
+O1856,S19,Electronics,Home Gadgets,614,39012.25,Air,0,On-Time,None,4.0,N,45.61,392.15
+O1857,S30,Health,Personal Care,318,38162.14,Road,0,On-Time,None,3.0,N,7.59,98.54
+O1858,S25,Textiles,Men's Clothing,529,9792.26,Sea,0,On-Time,None,27.0,N,27.76,489.51
+O1859,S28,Textiles,Women's Clothing,600,4875.05,Air,0,On-Time,None,3.0,N,34.53,260.62
+O1860,S7,Textiles,Home Textiles,36,35097.97,Air,0,On-Time,None,2.0,Y,1.84,37.9
+O1861,S7,Textiles,Men's Clothing,695,18733.19,Air,2,Late,Weather,4.0,N,26.81,179.15
+O1862,S18,Household,Cleaning Supplies,571,21901.14,Sea,0,On-Time,None,21.0,N,29.29,408.29
+O1863,S27,Household,Laundry Products,208,2041.88,Air,0,On-Time,None,3.0,N,14.33,147.49
+O1864,S3,Electronics,Audio Devices,396,13349.03,Rail,1,Late,Customs Delay,6.0,N,8.84,136.93
+O1865,S15,Health,Skincare,358,2166.98,Road,0,On-Time,None,3.0,N,7.48,96.18
+O1866,S12,Textiles,Women's Clothing,969,44019.7,Road,0,On-Time,None,4.0,N,27.51,175.71
+O1867,S16,Food,Frozen Foods,949,12548.14,Sea,0,On-Time,None,10.0,N,19.81,243.96
+O1868,S5,Household,Outdoor & Seasonal,702,28088.19,Sea,0,On-Time,None,25.0,N,39.15,488.1
+O1869,S23,Food,Pantry Staples,545,2429.48,Air,0,On-Time,None,1.0,N,11.22,88.93
+O1870,S9,Electronics,Office & Computing,837,33508.95,Road,0,On-Time,None,5.0,N,22.16,274.72
+O1871,S27,Household,Laundry Products,387,16489.85,Air,0,On-Time,None,2.0,N,16.81,150.12
+O1872,S22,Household,Kitchen & Dining,908,44947.0,Sea,0,On-Time,None,24.0,N,49.3,605.13
+O1873,S24,Food,Frozen Foods,925,44461.85,Rail,0,On-Time,None,6.0,N,18.41,209.33
+O1874,S7,Textiles,Women's Clothing,567,16601.89,Road,0,On-Time,None,4.0,Y,13.16,155.9
+O1875,S9,Electronics,Audio Devices,536,45097.56,Road,0,On-Time,None,5.0,N,15.72,228.45
+O1876,S22,Household,Cleaning Supplies,162,49809.8,Sea,0,On-Time,None,28.0,N,14.84,281.87
+O1877,S25,Textiles,Women's Clothing,743,41358.08,Sea,0,On-Time,None,24.0,N,42.7,505.72
+O1878,S24,Food,Fresh Produce,215,42321.13,Road,0,On-Time,None,2.0,N,2.94,53.96
+O1879,S5,Household,Outdoor & Seasonal,464,12825.93,Sea,3,Late,Shortage,27.0,N,25.08,416.25
+O1880,S12,Textiles,Men's Clothing,282,29046.77,Road,0,On-Time,None,3.0,N,6.77,82.78
+O1881,S14,Electronics,Small Appliances,903,3829.17,Sea,0,On-Time,None,14.0,Y,31.0,354.77
+O1882,S15,Health,First Aid,245,5198.44,Road,0,On-Time,None,3.0,N,4.74,77.54
+O1883,S13,Food,Frozen Foods,861,49945.18,Rail,0,On-Time,None,6.0,N,16.77,219.2
+O1884,S10,Food,Pantry Staples,749,16668.64,Air,0,On-Time,None,1.0,N,16.04,102.28
+O1885,S15,Health,Baby Care,530,37535.1,Road,0,On-Time,None,4.0,N,11.97,172.32
+O1886,S27,Household,Laundry Products,687,40429.92,Air,0,On-Time,None,2.0,N,22.71,201.39
+O1887,S14,Household,Cleaning Supplies,953,42972.15,Rail,0,On-Time,None,4.0,N,16.12,144.89
+O1888,S8,Food,Snacks & Confectionery,965,49882.6,Rail,0,On-Time,None,4.0,N,14.39,142.39
+O1889,S15,Health,Skincare,840,12454.08,Road,0,On-Time,None,2.0,N,9.96,108.16
+O1890,S10,Food,Beverages,735,2497.37,Air,0,On-Time,None,1.0,N,11.29,101.71
+O1891,S4,Electronics,Office & Computing,510,20853.98,Sea,7,Late,Shortage,29.0,N,21.44,429.53
+O1892,S18,Household,Cleaning Supplies,126,6938.99,Air,0,On-Time,None,4.0,Y,10.95,156.99
+O1893,S22,Textiles,Home Textiles,395,1610.08,Sea,0,On-Time,None,22.0,N,24.51,348.41
+O1894,S6,Household,Kitchen & Dining,353,18341.13,Air,0,On-Time,None,3.0,N,21.22,207.95
+O1895,S18,Household,Outdoor & Seasonal,593,39295.04,Sea,7,Late,Weather,26.0,N,28.23,370.12
+O1896,S26,Health,Personal Care,404,28525.94,Air,0,On-Time,None,3.0,N,28.75,223.11
+O1897,S27,Household,Kitchen & Dining,73,15982.51,Air,0,On-Time,None,4.0,N,7.39,130.95
+O1898,S25,Textiles,Home Textiles,726,32889.93,Sea,0,On-Time,None,22.0,N,31.27,465.23
+O1899,S1,Household,DIY & Tools,730,11984.9,Rail,0,On-Time,None,6.0,N,16.4,190.96
+O1900,S28,Textiles,Women's Clothing,81,1211.88,Air,0,On-Time,None,2.0,N,4.87,57.22
+O1901,S9,Electronics,Small Appliances,798,38335.49,Road,0,On-Time,None,4.0,N,23.66,217.52
+O1902,S7,Textiles,Footwear,283,31375.28,Road,0,On-Time,None,4.0,N,7.22,97.01
+O1903,S29,Health,Vitamins & Supplements,999,38233.98,Sea,0,On-Time,None,28.0,N,64.15,727.66
+O1904,S9,Food,Fresh Produce,329,2427.43,Road,0,On-Time,None,3.0,N,7.66,91.96
+O1905,S27,Household,Laundry Products,347,41937.42,Air,0,On-Time,None,4.0,Y,33.56,249.84
+O1906,S10,Food,Frozen Foods,375,31166.55,Air,0,On-Time,None,1.0,N,6.54,73.0
+O1907,S6,Health,First Aid,504,28388.07,Air,1,Late,Customs Delay,3.0,Y,20.09,159.66
+O1908,S10,Food,Snacks & Confectionery,616,31418.4,Air,0,On-Time,None,1.0,N,13.54,94.04
+O1909,S20,Household,Kitchen & Dining,175,43289.45,Air,0,On-Time,None,3.0,N,11.66,132.88
+O1910,S4,Food,Frozen Foods,553,29553.36,Sea,0,On-Time,None,14.0,N,17.88,248.91
+O1911,S10,Food,Frozen Foods,20,29257.04,Air,0,On-Time,None,2.0,N,1.06,30.42
+O1912,S20,Household,Laundry Products,310,49538.62,Air,0,On-Time,None,2.0,N,11.95,133.94
+O1913,S27,Household,Laundry Products,738,37958.14,Air,0,On-Time,None,4.0,N,50.96,408.27
+O1914,S12,Textiles,Footwear,810,22393.54,Air,0,On-Time,None,2.0,N,34.94,179.18
+O1915,S10,Food,Fresh Produce,111,35516.15,Air,0,On-Time,None,1.0,N,2.5,40.87
+O1916,S7,Textiles,Children's Clothing,434,19766.91,Air,0,On-Time,None,2.0,N,17.18,141.55
+O1917,S22,Household,Laundry Products,401,11829.34,Sea,6,Late,Weather,27.0,N,21.97,368.1
+O1918,S14,Electronics,Small Appliances,788,30044.17,Sea,0,On-Time,None,22.0,Y,33.08,553.8
+O1919,S9,Electronics,Office & Computing,223,46445.01,Road,0,On-Time,None,4.0,Y,7.1,113.9
+O1920,S14,Electronics,Consumer Electronics,700,46492.41,Sea,0,On-Time,None,27.0,Y,46.5,599.84
+O1921,S22,Textiles,Women's Clothing,97,17424.31,Sea,6,Late,Shortage,18.0,N,4.03,87.96
+O1922,S17,Health,First Aid,562,26620.03,Rail,0,On-Time,None,4.0,N,9.14,136.78
+O1923,S29,Health,First Aid,410,10975.98,Sea,6,Late,Customs Delay,23.0,N,18.11,305.28
+O1924,S24,Food,Snacks & Confectionery,597,49783.74,Road,0,On-Time,None,1.0,N,3.5,39.31
+O1925,S22,Textiles,Children's Clothing,898,49065.34,Road,0,On-Time,None,4.0,N,27.47,168.36
+O1926,S25,Textiles,Footwear,55,32650.69,Sea,0,On-Time,None,18.0,N,2.78,105.58
+O1927,S25,Textiles,Children's Clothing,681,40318.5,Rail,0,On-Time,None,7.0,N,19.89,214.28
+O1928,S28,Textiles,Men's Clothing,472,35897.46,Rail,0,On-Time,None,4.0,N,6.79,96.57
+O1929,S12,Textiles,Children's Clothing,601,29861.33,Air,0,On-Time,None,4.0,N,54.02,355.46
+O1930,S9,Electronics,Office & Computing,319,3140.73,Road,0,Cancelled,Transport Failure,,N,0.0,0.0
+O1931,S7,Textiles,Children's Clothing,95,23010.83,Air,0,On-Time,None,2.0,N,5.29,62.27
+O1932,S23,Food,Pantry Staples,101,33901.92,Air,0,On-Time,None,2.0,N,4.49,80.09
+O1933,S1,Household,Cleaning Supplies,669,34037.81,Sea,0,On-Time,None,30.0,N,44.35,598.53
+O1934,S28,Textiles,Women's Clothing,682,18969.57,Air,0,On-Time,None,3.0,N,40.25,247.59
+O1935,S4,Food,Pantry Staples,723,47113.75,Sea,0,On-Time,None,20.0,N,35.81,454.82
+O1936,S28,Textiles,Home Textiles,945,8784.17,Air,0,On-Time,None,2.0,N,28.46,217.67
+O1937,S6,Health,Personal Care,937,25267.79,Air,0,On-Time,None,1.0,Y,19.89,108.5
+O1938,S20,Household,Cleaning Supplies,251,34698.76,Air,0,On-Time,None,3.0,N,19.0,181.09
+O1939,S9,Food,Fresh Produce,874,35008.22,Road,0,On-Time,None,4.0,N,20.69,210.39
+O1940,S13,Textiles,Men's Clothing,11,32607.63,Rail,0,On-Time,None,8.0,N,0.69,28.32
+O1941,S9,Food,Fresh Produce,234,14126.77,Road,0,On-Time,None,4.0,N,7.49,107.15
+O1942,S1,Household,Outdoor & Seasonal,810,8232.23,Sea,0,Cancelled,Transport Failure,,N,0.0,0.0
+O1943,S21,Health,Vitamins & Supplements,754,31979.05,Air,0,On-Time,None,3.0,N,38.76,310.95
+O1944,S9,Electronics,Small Appliances,982,30165.45,Road,0,On-Time,None,6.0,N,38.95,365.56
+O1945,S26,Health,Personal Care,935,9378.12,Air,1,Late,Weather,2.0,N,18.3,128.62
+O1946,S24,Food,Snacks & Confectionery,938,35404.39,Road,2,Late,Customs Delay,6.0,N,23.33,190.44
+O1947,S8,Food,Snacks & Confectionery,598,23031.01,Air,0,On-Time,None,1.0,N,12.05,88.44
+O1948,S19,Electronics,Small Appliances,125,33554.15,Road,1,Late,Traffic Congestion,8.0,N,8.24,143.45
+O1949,S4,Food,Frozen Foods,675,41949.67,Sea,0,On-Time,None,16.0,N,26.45,340.54
+O1950,S12,Textiles,Footwear,927,8901.56,Road,0,On-Time,None,4.0,N,19.66,180.05
+O1951,S5,Household,DIY & Tools,112,1447.67,Sea,0,On-Time,None,18.0,N,6.82,138.75
+O1952,S27,Household,Laundry Products,203,39065.58,Air,0,On-Time,None,4.0,N,17.99,206.87
+O1953,S27,Household,Kitchen & Dining,175,30680.02,Air,0,On-Time,None,3.0,Y,10.95,137.13
+O1954,S14,Household,DIY & Tools,880,35132.16,Sea,0,On-Time,None,15.0,N,25.69,334.25
+O1955,S27,Household,Laundry Products,99,41988.67,Air,0,On-Time,None,4.0,Y,9.87,148.1
+O1956,S1,Household,Outdoor & Seasonal,695,40239.14,Sea,0,On-Time,None,13.0,N,23.46,290.76
+O1957,S22,Household,DIY & Tools,131,48065.55,Sea,5,Late,Shortage,27.0,N,7.92,200.89
+O1958,S12,Textiles,Children's Clothing,152,27028.79,Air,0,On-Time,None,2.0,N,7.87,78.68
+O1959,S26,Health,Vitamins & Supplements,115,24680.53,Air,0,On-Time,None,1.0,N,2.37,42.43
+O1960,S14,Household,Cleaning Supplies,896,20393.42,Road,0,On-Time,None,4.0,N,23.05,183.46
+O1961,S27,Household,Outdoor & Seasonal,437,8107.71,Air,0,On-Time,None,2.0,N,21.01,138.61
+O1962,S24,Food,Fresh Produce,314,28844.06,Rail,0,On-Time,None,4.0,N,5.88,93.43
+O1963,S11,Health,Skincare,881,14212.12,Air,0,On-Time,None,2.0,N,28.17,207.54
+O1964,S21,Health,Personal Care,980,46104.72,Air,0,On-Time,None,3.0,N,52.35,332.27
+O1965,S27,Household,Cleaning Supplies,326,29367.94,Air,0,On-Time,None,2.0,N,12.23,113.92
+O1966,S23,Food,Beverages,972,29845.59,Air,0,Cancelled,Supplier Bankruptcy,,N,0.0,0.0
+O1967,S29,Health,Vitamins & Supplements,644,18068.77,Sea,5,Late,Weather,21.0,N,26.06,326.51
+O1968,S25,Textiles,Home Textiles,911,3073.47,Sea,0,On-Time,None,27.0,N,58.86,680.77
+O1969,S20,Household,Cleaning Supplies,18,2071.32,Air,0,On-Time,None,4.0,Y,2.08,56.89
+O1970,S3,Electronics,Office & Computing,783,21455.09,Rail,0,On-Time,None,8.0,N,26.95,287.25
+O1971,S10,Food,Fresh Produce,82,4685.99,Air,0,On-Time,None,1.0,N,2.2,31.55
+O1972,S5,Household,Kitchen & Dining,368,30538.92,Sea,0,On-Time,None,13.0,N,11.26,216.91
+O1973,S19,Electronics,Consumer Electronics,232,44108.16,Road,0,On-Time,None,6.0,N,11.08,168.83
+O1974,S21,Health,First Aid,425,44204.28,Air,0,On-Time,None,1.0,N,8.93,77.22
+O1975,S5,Household,Laundry Products,562,33122.75,Sea,4,Late,Shortage,21.0,N,22.71,346.49
+O1976,S16,Food,Pantry Staples,379,10955.98,Sea,0,On-Time,None,22.0,N,20.42,352.21
+O1977,S14,Household,Cleaning Supplies,725,43218.34,Sea,0,On-Time,None,27.0,N,43.82,562.41
+O1978,S22,Textiles,Home Textiles,273,44361.63,Sea,0,On-Time,None,28.0,N,17.21,331.02
+O1979,S10,Food,Pantry Staples,849,10234.35,Air,0,On-Time,None,1.0,N,17.37,104.46
+O1980,S20,Household,Kitchen & Dining,699,37002.59,Air,0,On-Time,None,2.0,N,26.61,178.29
+O1981,S8,Food,Fresh Produce,869,14682.72,Rail,0,On-Time,None,5.0,N,13.42,192.3
+O1982,S26,Health,Skincare,327,40230.7,Air,2,Late,Customs Delay,3.0,N,7.59,66.69
+O1983,S5,Household,Outdoor & Seasonal,93,49863.28,Sea,0,On-Time,None,28.0,N,9.29,219.35
+O1984,S24,Food,Pantry Staples,327,1986.29,Rail,0,On-Time,None,5.0,N,8.09,104.03
+O1985,S19,Electronics,Office & Computing,120,44919.61,Road,0,On-Time,None,4.0,N,3.99,75.65
+O1986,S3,Electronics,Consumer Electronics,260,31320.21,Rail,0,On-Time,None,6.0,N,5.79,131.04
+O1987,S22,Household,Laundry Products,392,48682.44,Sea,0,On-Time,None,11.0,N,10.64,189.46
+O1988,S1,Household,Kitchen & Dining,16,23517.97,Sea,0,On-Time,None,23.0,N,1.23,71.79
+O1989,S10,Food,Snacks & Confectionery,468,42445.7,Air,1,Late,Customs Delay,3.0,N,21.84,164.22
+O1990,S14,Electronics,Office & Computing,93,3588.51,Sea,0,On-Time,None,21.0,N,5.19,177.19
+O1991,S5,Household,Kitchen & Dining,217,17096.31,Sea,5,Late,Weather,26.0,N,10.99,229.02
+O1992,S23,Food,Beverages,909,3817.32,Air,0,On-Time,None,1.0,N,15.75,101.02
+O1993,S15,Health,Vitamins & Supplements,399,48779.49,Road,0,On-Time,None,2.0,N,5.58,67.58
+O1994,S7,Textiles,Women's Clothing,323,40940.21,Air,0,On-Time,None,2.0,Y,15.18,111.33
+O1995,S27,Household,Laundry Products,31,42701.1,Air,0,On-Time,None,3.0,N,2.73,54.65
+O1996,S2,Textiles,Women's Clothing,419,46929.28,Air,0,On-Time,None,2.0,N,14.71,143.22
+O1997,S24,Food,Fresh Produce,904,4712.62,Road,0,On-Time,None,1.0,N,5.32,45.62
+O1998,S26,Health,Vitamins & Supplements,524,19587.08,Air,0,On-Time,None,2.0,N,20.56,178.3
+O1999,S9,Electronics,Audio Devices,136,4016.23,Road,2,Late,Customs Delay,7.0,N,5.03,104.7
